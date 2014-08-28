@@ -1,0 +1,14 @@
+Package: phyloint
+Title: Phylogenetic components of food-web intervality
+Version: 0.1
+Authors@R: "Daniel Stouffer <daniel.stouffer@canterbury.ac.nz> [aut, cre]"
+Description: Phyloint provides functions to calculate the relationship between
+    species' phylogenetic relationships and intervality, a specific measure of
+    food-web network structure.
+Depends:
+    R (>= 3.1.1),
+    ape,
+    cheddar,
+    phangorn
+License: MIT + file LICENSE
+LazyData: true
