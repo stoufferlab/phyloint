@@ -1,10 +1,10 @@
 #' @title Plot a tree coordinate object in the xy plane and an ordered adjacency matrix by its side
 #' @param x an object of class 'phylo.gaps'
 #' @export
-`plot.phylo.gaps` <- function(x,tree.lwd=1,link.size=1)
+`plot.phylo.gaps` <- function(x,type='optim',tree.lwd=1,link.size=1)
 {
   adj <- x$adj
-  phy <- x$phy
+  phy <- x$phy.optim
 
   par(mfrow=c(1,2))
 
