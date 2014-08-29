@@ -3,12 +3,12 @@
 \alias{phylo.correction}
 \title{Remove potential phylogenetic signal from a set of continuous or discrete traits}
 \usage{
-phylo.correction(phy, traits)
+phylo.correction(traits, phy)
 }
 \arguments{
-\item{phy}{a phylogenetic tree of class 'phylo'}
-
 \item{traits}{a data frame with species as rows and traits as columns}
+
+\item{phy}{a phylogenetic tree of class 'phylo'}
 }
 \description{
 Remove potential phylogenetic signal from a set of continuous or discrete traits

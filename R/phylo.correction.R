@@ -1,11 +1,11 @@
 #' @title Remove potential phylogenetic signal from a set of continuous or discrete traits
-#' @param phy a phylogenetic tree of class 'phylo'
 #' @param traits a data frame with species as rows and traits as columns
+#' @param phy a phylogenetic tree of class 'phylo'
 #' @references MA Butler, TW Schoener, and JB Losos (2000) The relationship between
 #'    sexual size dimorphism and habitat use in Greater Antillean Anolis
 #'    lizards. Evolution 54:259-272
 #' @export
-`phylo.correction` <- function(phy, traits)
+`phylo.correction` <- function(traits, phy)
 {
     # calculate the Gmatrix based on the phylogeny   
     Gmatrix <- ape::vcv(phy);
