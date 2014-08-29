@@ -10,26 +10,23 @@
       # pick a random node to swap around
       n <- sample(phy$edge[,1],1);
 
-      # swapping the edges is equivalent to swapping descendants of all children
+      # find all of the subsets of tips that are below this node
       c <- phangorn::Children(phy, n);
+      ts <- sapply(c,function(x)(unlist(phangorn::Descendants(phy,x,type="tips"))))
 
-      # and now we need to rearrange their descendants
-      t1 <- unlist(phangorn::Descendants(phy, c[1], type='tips'));
-      t2 <- unlist(phangorn::Descendants(phy, c[2], type='tips'));
+      # find the existing location of the tips
+      tu <- unlist(ts)
+      y.old <- tc[tu,"y"]
 
-      # since everything is arbitrary, set d1 to be the "lowest" set
-      if(min(tc[t2,"y"]) < min(tc[t1,"y"])){
-        tmp <- t2;
-        t2 <- t1;
-        t1 <- tmp;
-      }
+      # find a new location for them
+      tu.new <- unlist(sample(ts))
+      while(sum(tu.new != tu) == 0) tu.new <- unlist(sample(ts))
 
-      # everything relates to a shift based on the size of the corresponding groups
-      tc[t1, "y"] <- tc[t1, "y"] + length(t2);
-      tc[t2, "y"] <- tc[t2, "y"] - length(t1);
+      # set the new location of the tips
+      tc[tu.new,"y"] <- y.old
     
       # and fix all parents to line up
-      anc <- unique(phangorn::Ancestors(phy, c(t1,t2), 'parent'));
+      anc <- unique(phangorn::Ancestors(phy, c, 'parent'));
       repeat{
         for(a in anc){
           tc[a, "y"] <- mean(tc[phangorn::Children(phy, a), "y"]);
