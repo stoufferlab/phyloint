@@ -3,7 +3,7 @@
 \alias{plot.phylo.gaps}
 \title{Plot a tree coordinate object in the xy plane and an ordered adjacency matrix by its side}
 \usage{
-\method{plot}{phylo.gaps}(x, tree.lwd = 1, link.size = 1)
+\method{plot}{phylo.gaps}(x, type = "optim", tree.lwd = 1, link.size = 1)
 }
 \arguments{
 \item{x}{an object of class 'phylo.gaps'}

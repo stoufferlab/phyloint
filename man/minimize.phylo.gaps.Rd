@@ -3,8 +3,8 @@
 \alias{minimize.phylo.gaps}
 \title{Minimize diet gaps in an adjacency matrix based on prey phylogeny}
 \usage{
-minimize.phylo.gaps(adj, phy, t.min = 1e-05, t.cooling = 0.99,
-  swap.factor = 1, verbose = FALSE)
+minimize.phylo.gaps(adj, phy, p.start = 0.5, t.start = NA, t.min = 1e-05,
+  t.cooling = 0.99, swap.factor = 1, verbose = FALSE)
 }
 \arguments{
 \item{adj}{an adjacency matrix of class 'matrix'}
