@@ -1,41 +1,37 @@
 #' @title Permute a random pair of sister clades in a phylogenetic tree
 #' @param phy The phylo object
-#' @param rep The number of swaps to perform
 #' @export
-`swap.tree` <- function(phy, rep = 1)
+`swap.tree` <- function(phy)
 {
+  # find the existing xy-location of all tips and nodes
   tc <- tree.coord(phy)
+
+  # pick a random node to swap around
+  n <- sample(phy$edge[,1],1)
+
+  # find the children of this node
+  c <- phangorn::Children(phy, n)
+
+  # find all tips that are descendants of the various children
+  ts <- sapply(c,function(x)(unlist(phangorn::Descendants(phy,x,type="tips"))))
   
-  for(k in 1:rep){
-      # pick a random node to swap around
-      n <- sample(phy$edge[,1],1);
+  # reorder the children so that they have increasing y-values
+  c <- c[order(tc[c,"y"])]
 
-      # find all of the subsets of tips that are below this node
-      c <- phangorn::Children(phy, n);
-      ts <- sapply(c,function(x)(unlist(phangorn::Descendants(phy,x,type="tips"))))
+  # order the tips within each group
+  ts <- lapply(ts,function(x)(x[order(tc[x,"y"])]))
 
-      # find the existing location of the tips
-      tu <- unlist(ts)
-      y.old <- tc[tu,"y"]
+  # what will the new order be?
+  ts.new <- sample(ts)
 
-      # find a new location for them
-      tu.new <- unlist(sample(ts))
-      while(sum(tu.new != tu) == 0) tu.new <- unlist(sample(ts))
-
-      # set the new location of the tips
-      tc[tu.new,"y"] <- y.old
-    
-      # and fix all parents to line up
-      anc <- unique(phangorn::Ancestors(phy, c, 'parent'));
-      repeat{
-        for(a in anc){
-          tc[a, "y"] <- mean(tc[phangorn::Children(phy, a), "y"]);
-        }
-        anc <- unique(phangorn::Ancestors(phy, anc, 'parent'));
-        if(sum(anc == 0) == 1) break;
-      }
+  # make absolutely sure things actually change
+  while(sum(unlist(ts.new) == unlist(ts)) != 0){
+    ts.new <- sample(ts)
   }
-  
+
+  # set the new location of the tips
+  tc[unlist(ts.new),"y"] <- tc[unlist(ts),"y"]
+
   # figure out the new top to bottom order
   new.order <- rownames(tc)[order(tc$y[1:Ntip(phy)])];
 
