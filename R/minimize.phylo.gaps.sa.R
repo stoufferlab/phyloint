@@ -1,8 +1,8 @@
-#' @title Minimize diet gaps in an adjacency matrix based on prey phylogeny
+#' @title Minimize diet gaps in an adjacency matrix based on prey phylogeny using simulated annealing
 #' @param adj an adjacency matrix of class 'matrix'
 #' @param phy a phylogenetic tree of class 'phylo'
-#' @export
-`minimize.phylo.gaps` <- function(adj, phy, p.start=0.5, t.start=NA, t.min=1E-5, t.cooling=0.99, swap.factor=1.0, verbose=FALSE){
+#' 
+`minimize.phylo.gaps.sa` <- function(adj, phy, t.start=NA, p.start=0.5, start.reps=100, start.type='mean', n.temps=NA, t.min=1E-5, t.cooling=0.99, swap.factor=1.0, verbose=FALSE){
     obj <- list(adj=adj,phy.init=phy)
     class(obj) <- 'phylo.gaps'
 
@@ -11,7 +11,7 @@
         t <- t.start
     }else{
         # find a good initial temperature
-        t <- sa.start(adj, phy, prob=p.start)
+        t <- sa.start(adj, phy, prob=p.start, reps=start.reps, start.type=start.type)
     }
 
     # how many swaps at each temp?
@@ -25,20 +25,21 @@
     gaps.optim <- gaps
 
     if(verbose){
-        cat(paste("Temp","Swaps","Better","Worse","Gaps","Optim",sep="\t"))
+        cat(paste("Temp","Attempts","Swaps","Better","Worse","Gaps","Optim",sep="\t"))
         cat("\n")
-        cat(paste(t,0,0,0,gaps,gaps.optim,sep="\t"))
+        cat(paste(t,0,0,0,0,gaps,gaps.optim,sep="\t"))
         cat("\n")
     }
 
     # keep going so long as we are above the minimum temp
-    while(t > t.min){
+    nn <- 0
+    while(t > t.min || (!is.na(n.temps) && nn < n.temps)){
         b.count <- 0
         w.count <- 0
         s.count <- 0
         while(s.count < nswaps){
             # suggest a swap of the tree
-            phy.new <- swap.tree(phy,1)
+            phy.new <- swap.tree(phy)
 
             # calculate the new energy
             gaps.new <- sum.phylo.gaps(adj, phy)
@@ -61,9 +62,10 @@
             s.count <- s.count + 1
         }
         t <- t * t.cooling
+        nn <- n + 1
         
         if(verbose){
-            cat(paste(t,b.count+w.count,b.count,w.count,gaps,gaps.optim,sep="\t"))
+            cat(paste(t,nswaps,b.count+w.count,b.count,w.count,gaps,gaps.optim,sep="\t"))
             cat("\n")
         }
         
@@ -71,6 +73,5 @@
 
     obj$phy.optim <- phy.optim
     obj$gaps.optim <- gaps.optim
-    
     obj
 }

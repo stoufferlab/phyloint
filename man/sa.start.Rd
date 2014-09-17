@@ -3,7 +3,7 @@
 \alias{sa.start}
 \title{Estimate a starting temperature for simulated annealing}
 \usage{
-sa.start(adj, phy, prob = 0.5, reps = 100)
+sa.start(adj, phy, prob = 0.5, reps = 100, start.type = "mean")
 }
 \arguments{
 \item{adj}{The adjacency matrix}
@@ -13,6 +13,8 @@ sa.start(adj, phy, prob = 0.5, reps = 100)
 \item{prob}{The target initial probability of accepting a move; defaults to 0.50}
 
 \item{reps}{The number of reps to estimate across; defaults to 100}
+
+\item{start.type}{Whether the target probability refers to accepting the min, mean, or max change; defaults to mean}
 }
 \description{
 Estimate a starting temperature for simulated annealing
