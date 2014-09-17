@@ -1,13 +1,16 @@
-#' @title Permute a random pair of sister clades in a phylogenetic tree
+#' @title Permute a set pair of sister clades in a phylogenetic tree
 #' @param phy The phylo object
+#' @param node The node to permuate around
 #' @export
-`swap.tree` <- function(phy)
+`swap.tree` <- function(phy, node=NULL)
 {
   # find the existing xy-location of all tips and nodes
   tc <- tree.coord(phy)
 
-  # pick a random node to swap around
-  n <- sample(phy$edge[,1],1)
+  # pick a random node to swap around if one isn't specified
+  ifelse(is.null(node),
+         n <- sample(phy$edge[,1],1),
+         n <- node)
 
   # find the children of this node
   c <- phangorn::Children(phy, n)
