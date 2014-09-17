@@ -3,12 +3,10 @@
 \alias{swap.tree}
 \title{Permute a random pair of sister clades in a phylogenetic tree}
 \usage{
-swap.tree(phy, rep = 1)
+swap.tree(phy)
 }
 \arguments{
 \item{phy}{The phylo object}
-
-\item{rep}{The number of swaps to perform}
 }
 \description{
 Permute a random pair of sister clades in a phylogenetic tree
