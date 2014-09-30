@@ -7,12 +7,19 @@
 #' @export
 `phylo.correction` <- function(traits, phy)
 {
+    # determine the order of the traits
+    rnames.orig <- rownames(traits);
+
+    # make sure that the order of the traits corresponds to the phylogeny
+    traits <- traits[as.character(phy$tip.label),];
+
     # calculate the Gmatrix based on the phylogeny   
     Gmatrix <- ape::vcv(phy);
 
     # determine the phylogenetic 'correction factor' as defined in Butler et al. (2000)
     correction.factor <- chol(solve(Gmatrix));
 
+    # correct things trait by trait (useful if we have a mixture of continuous and discrete traits)
     U = data.frame(row.names=rownames(traits));
     for(t in colnames(traits)){
         if(is.factor(traits[,t])){
@@ -23,6 +30,9 @@
         U[,t] <- correction.factor %*% M;
     }
 
-    td <- geiger::treedata(phy,U);
-    return(data.frame(td$data));
+    # reorder the corrected traits as they originally came
+    # TODO: should make sure this works when a species was dropped because it isn't in the tree
+    U <- U[rnames.orig,];
+ 
+    return(U);
 }
