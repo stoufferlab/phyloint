@@ -1,0 +1,350 @@
+"Taxonomy","MetabolicCategory","FeedingType","Environment","FeedingMode","TL","BodyMass","Mobility"
+"Codium fragile","Primary Producer","none","benthic","primary producer",1,8.38E-001,1
+"Codium vermilara","Primary Producer","none","benthic","primary producer",1,6.24E-001,1
+"Enteromorpha compressa","Primary Producer","none","benthic","primary producer",1,2.82E-001,1
+"Ectocarpus confervoides","Primary Producer","none","benthic","primary producer",1,2.04E-002,1
+"Ceramium rubrum","Primary Producer","none","benthic","primary producer",1,5.05E-001,1
+"Ascophyllum","Primary Producer","none","benthic","primary producer",1,3.73E+002,1
+"Fucus vesiculosus","Primary Producer","none","benthic","primary producer",1,2.70E+001,1
+"Asparagopsis armata","Primary Producer","none","benthic","primary producer",1,2.82E-001,1
+"Bonnemaisonia hamifera","Primary Producer","none","benthic","primary producer",1,5.05E-001,1
+"Jania rubens","Primary Producer","none","benthic","primary producer",1,2.29E-005,1
+"Ceramium diaphanum","Primary Producer","none","benthic","primary producer",1,3.27E-002,1
+"Ceramium rubrum","Primary Producer","none","benthic","primary producer",1,1.03E-001,1
+"Laurencia platycephala","Primary Producer","none","benthic","primary producer",1,1.18E-002,1
+"Polysiphonia fruticulosa","Primary Producer","none","benthic","primary producer",1,4.99E-002,1
+"Polysiphonia urceolata","Primary Producer","none","benthic","primary producer",1,2.04E-002,1
+"Ectocarpus siliculosus","Primary Producer","none","benthic","primary producer",1,2.82E-001,1
+"Feldmannia globifera","Primary Producer","none","benthic","primary producer",1,2.04E-002,1
+"Stilophora rhizodes","Primary Producer","none","benthic","primary producer",1,7.29E-002,1
+"Sphacelaria cirrosa","Primary Producer","none","benthic","primary producer",1,2.04E-002,1
+"Dictyota dichotoma","Primary Producer","none","benthic","primary producer",1,2.82E-001,1
+"Fucus serratus","Primary Producer","none","benthic","primary producer",1,2.70E+001,1
+"Himanthalia lorea","Primary Producer","none","benthic","primary producer",1,2.04E-002,1
+"Enteromorpha clathrata","Primary Producer","none","benthic","primary producer",1,1.01E+000,1
+"Enteromorpha intestinalis","Primary Producer","none","benthic","primary producer",1,3.19E-001,1
+"Ulva lactuca","Primary Producer","none","benthic","primary producer",1,2.82E-001,1
+"Phaeophila leptochaete","Primary Producer","none","benthic","primary producer",1,6.06E-002,1
+"Chondrus crispus","Primary Producer","none","benthic","primary producer",1,6.06E-002,1
+"Chaetomorpha linum","Primary Producer","none","benthic","primary producer",1,2.82E-001,1
+"Cladophora albida","Primary Producer","none","benthic","primary producer",1,2.04E-002,1
+"Cladophora dalmatica","Primary Producer","none","benthic","primary producer",1,1.03E-001,1
+"Cladophora rupestris","Primary Producer","none","benthic","primary producer",1,4.38E-003,1
+"Cladophora sericea","Primary Producer","none","benthic","primary producer",1,8.74E-003,1
+"Nitzschia closterium","Primary Producer","none","pelagic","primary producer",1,9.76E-017,1
+"Skeletonema costatum","Primary Producer","none","pelagic","primary producer",1,3.16E-020,1
+"Podosira stelliger","Primary Producer","none","pelagic","primary producer",1,5.80E-016,1
+"Thalassiosira","Primary Producer","none","pelagic","primary producer",1,3.03E-018,1
+"Phaeocystis pouchetii","Primary Producer","none","pelagic","primary producer",1,4.37E-019,1
+"Diatoms","Primary Producer","none","pelagic","primary producer",1,1.80E-017,1
+"POM","Primary Producer","none","pelagic","primary producer",1,4.91E-022,1
+"Gelidium spp.","Primary Producer","none","pelagic","primary producer",1,5.35E-010,1
+"Microphytobenthos","Primary Producer","none","benthopelagic","primary producer",1,5.04E-017,1
+"Bacteria","Primary Producer","none","benthopelagic","primary producer",1,6.80E-021,1
+"Detritus","Primary Producer","none","benthopelagic","primary producer",1,3.16E-020,1
+"Oikopleura dioica","Invertebrate","herbivorous","pelagic","grazer",2,4.01E-005,4
+"Fritillaria borealis","Invertebrate","herbivorous","pelagic","grazer",2,9.28E-002,4
+"Evadne nordmanni","Invertebrate","omnivorous","pelagic","predator",2.97,9.39E-005,4
+"Podon intermedius","Invertebrate","omnivorous","pelagic","predator",2.97,5.88E-005,4
+"Calanus helgolandicus","Invertebrate","omnivorous","pelagic","predator",3.14,2.10E-004,4
+"Metridia lucens","Invertebrate","herbivorous","pelagic","grazer",2.25,9.44E-004,4
+"Pseudocalanus elongatus","Invertebrate","herbivorous","pelagic","grazer",2.25,8.13E-005,4
+"Microcalanus pusillis","Invertebrate","omnivorous","pelagic","predator",2,3.21E-005,4
+"Paracalanus parvus","Invertebrate","omnivorous","pelagic","predator",2.91,1.90E-004,4
+"Temora longicornis","Invertebrate","herbivorous","pelagic","grazer",2,9.39E-005,4
+"Eutemora hirundoides","Invertebrate","herbivorous","pelagic","grazer",2,6.96E-005,4
+"Acartia clausi","Invertebrate","herbivorous","pelagic","grazer",2,1.72E-004,4
+"Centropages typicus","Invertebrate","herbivorous","pelagic","grazer",2,1.08E-004,4
+"Calanus elongatus","Invertebrate","herbivorous","pelagic","grazer",2,1.38E-004,4
+"Tigriopus californicus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,4.90E-005,3
+"Thalestris rufovalescans","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.10E-004,3
+"Diosaccuss tenuicornis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.51E-005,3
+"Zaus spinatus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,8.13E-005,3
+"Tigriopus brevicornis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,5.88E-005,3
+"Oithona nana","Invertebrate","carnivorous","pelagic","predator",2.97,3.70E-004,4
+"Oithona helgolandica","Invertebrate","herbivorous","pelagic","grazer",2,1.23E-002,4
+"Apherusa jurinei","Invertebrate","herbivorous","benthic","grazer",2,1.73E-003,3
+"Colomastix pusilla","Invertebrate","omnivorous","benthic","predator",3,1.18E-003,3
+"Gammarellus angulosus","Invertebrate","omnivorous","benthic","predator",2.29,1.18E-002,3
+"Gammaropsis maculata","Invertebrate","omnivorous","benthic","predator",3.14,5.05E-003,3
+"Jassa falcata","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.39E-003,3
+"Parajassa pelagica","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.18E-003,3
+"Podocerus variegatus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,3.46E-002,3
+"Tritaeta gibbosa","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,6.17E-003,3
+"Caprella penantis","Invertebrate","omnivorous","benthic","predator",3.26,2.90E-002,3
+"Caprella fretensis","Invertebrate","omnivorous","benthic","predator",3.23,8.76E-003,3
+"Caprella linearis","Invertebrate","omnivorous","benthic","predator",3.26,2.64E-002,3
+"Cheirocratus sundevalli","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,4.01E-005,3
+"Leptocheirus pectinatus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,7.37E-004,3
+"Leptocheirus tricristatus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.18E-003,3
+"Melita palmata","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.35E-002,3
+"Ampelisca brevicornis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,7.40E-003,4
+"Leptocheirus hirsutimanus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,7.37E-004,3
+"Leucothoe incisa","Invertebrate","herbivorous","pelagic","grazer",2,2.39E-003,3
+"Leucothoe lilljeborgi","Invertebrate","herbivorous","pelagic","grazer",2,7.40E-003,3
+"Metaphoxus fultoni","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,6.99E-004,3
+"Orchestia gammarellus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,9.44E-004,3
+"Orchestia mediterranea","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,7.76E-004,3
+"Hyale prevostii","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,3.00E-003,3
+"Hyale stebbingi","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,3.41E-003,3
+"Gitana sarsi","Invertebrate","omnivorous","benthic","predator/scavenger",3.26,4.31E-004,3
+"Corophium bonnellii","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.44E-003,3
+"Corophium sextonae","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,9.44E-004,3
+"Orchomene nana","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.18E-003,3
+"Stenothoe monoculoides","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.44E-003,3
+"Iphimedia minuta","Invertebrate","omnivorous","benthic","predator/scavenger",3,1.73E-003,3
+"Iphimedia nexa","Invertebrate","omnivorous","benthic","predator/scavenger",3,8.76E-003,3
+"Iphimedia perplexa","Invertebrate","omnivorous","benthic","predator/scavenger",3,3.16E-003,3
+"Amphilochus neopolitanus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.23E-003,3
+"Microdeutopus chelifer","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.53E-003,4
+"Apherusa bispinosa","Invertebrate","herbivorous","benthic","grazer",2,1.49E-003,3
+"Corophium acutum","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.73E-002,3
+"Gammarus insensiblis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,7.40E-003,3
+"Gammarus salinus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,5.05E-003,3
+"Hyale perieri","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,4.33E-003,3
+"Hyale pontica","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.84E-003,3
+"Jassa marmorata","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.32E-003,3
+"Microjassa cumbrensis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,3.75E-004,3
+"Liljeborgia kinahani","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.38E-004,3
+"Orchomene humilis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,3.16E-003,3
+"Tryphosella sarsi","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,3.48E-004,3
+"Melita hergensis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,5.05E-003,3
+"Stenula rubrovittata","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.18E-003,3
+"Ampelisca diadema","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,6.17E-003,3
+"Urothoe elegans","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,8.16E-004,3
+"Caprella acanthifera","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,8.76E-003,3
+"Phtisica marina","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,3.46E-002,3
+"Pseudoprotella phasma","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,3.46E-002,3
+"Hyperia galba","Invertebrate","omnivorous","benthic","predator/scavenger",3.14,7.40E-003,3
+"Themisto gracilipes","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,8.06E-003,3
+"Plakortis simplex","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.94E+000,1
+"Haliclona rosea","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,6.38E+000,1
+"Halichondria bowerbanki","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,4.35E+000,1
+"Leucosolenia complicata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,5.05E-003,1
+"Phorbas dives","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.18E-002,1
+"Hymedesmia paupertas","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.18E-003,1
+"Mycale contareni","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.87E+001,1
+"Dercitus bucklandi","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.48E-001,1
+"Dysidea pallescens","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.76E-003,1
+"Haliclona simulans","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,6.38E+000,1
+"Haliclona cinerea","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.94E+000,1
+"Mycale macilenta","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.55E+001,1
+"Prosuberites epiphytum","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.49E+000,1
+"Phorbas plumosum","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,9.32E-001,1
+"Cliona celata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.87E+001,1
+"Myxilla rosacea","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.74E+001,1
+"Pachymatisma johnstonia","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,6.35E-001,1
+"Mycale rotalis","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.87E+001,1
+"Antho involvens","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,6.35E-001,1
+"Haliclona angulata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,6.38E+000,1
+"Terpios fugax","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.48E-001,1
+"Bugula flabellata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,6.35E-001,1
+"Callopora auriata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,4.05E-003,1
+"Callopora craticula","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,7.93E-003,1
+"Callopora dumerlii","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,9.93E-003,1
+"Callopora lineata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,8.06E-003,1
+"Callophora rylandi","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.40E-002,1
+"Celleporella hyalina","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,7.40E-003,1
+"Chorizopora brongniartii","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,7.80E-003,1
+"Cribrilina cryptooecium","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.49E-002,1
+"Cribrilina punctata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.12E-002,1
+"Electra pilosa","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,7.40E-003,1
+"Escharella variolosa","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,4.39E-002,1
+"Escharella ventricosa","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,5.43E-002,1
+"Menmbraiporella nitida","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.73E-002,1
+"Schizoporella unicornis","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,5.43E-002,1
+"Scrupocellaria reptans","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,9.33E-003,1
+"Smittoidea amplissima","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.40E-002,1
+"Umbonua ovicellata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,5.05E-003,1
+"Crisia denticula","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,3.46E-002,1
+"Disporella hispida","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.73E-002,1
+"Filicrisia geniculata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.16E-002,1
+"Caryophyllia smithii","Invertebrate","omnivorous","benthic","predator",3.05,2.16E-002,1
+"Corynactis viridis","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.18E-002,1
+"Anthopleura ballii","Invertebrate","omnivorous","benthic","predator",3.23,6.35E-001,1
+"Metridium senile","Invertebrate","omnivorous","benthic","predator",2.97,3.02E+000,1
+"Bougainvillea ramosa","Invertebrate","omnivorous","benthic","predator",3.05,7.40E-003,4
+"Calycella syringa","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.13E-003,2
+"Lovenella producta","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,3.21E-005,2
+"Obelia geniculata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.48E-001,2
+"Plumularia setacea","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,3.00E-001,2
+"Turbularia indivisa","Invertebrate","omnivorous","benthic","predator",3.05,1.49E+000,2
+"Botrylloides leachii","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,5.43E-002,2
+"Botryllus schlosseri","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,3.17E-002,2
+"Lissoclinum perforatum","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,5.07E-002,2
+"Cordylophora caspia","Invertebrate","omnivorous","benthic","predator",3.05,6.35E-001,2
+"Morchellium argus","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,6.35E-001,2
+"Anomia ephippium","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.17E-001,2
+"Dicata odhneri","Invertebrate","omnivorous","benthic","predator",3.41,8.76E-003,2
+"Archidoris pseudoargus","Invertebrate","omnivorous","benthic","predator",3,9.32E-001,2
+"Limacia clavigeria","Invertebrate","omnivorous","benthic","predator",3,2.16E-002,2
+"Polycera quadrilineata","Invertebrate","omnivorous","benthic","predator",3,1.19E-001,2
+"Onchidoris bilamellata","Invertebrate","omnivorous","benthic","predator",3.57,9.28E-002,2
+"Coryphella pellucida","Invertebrate","omnivorous","benthic","predator",3.02,3.46E-002,2
+"Coryphella pedata","Invertebrate","omnivorous","benthic","predator",3,1.18E-002,2
+"Acanthodoris pilosa","Invertebrate","omnivorous","benthic","predator",2.5,3.00E-001,2
+"Adalaria proximata","Invertebrate","omnivorous","benthic","predator",3,1.54E-002,2
+"Littorina saxatilis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.02E-002,2
+"Littorina obtusata","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.18E-002,2
+"Littorina neritoides","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,4.05E-003,2
+"Littorina littorea","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,5.07E-002,2
+"Mytilus edulis","Invertebrate","omnivorous","benthic","predator",2.92,7.76E-001,2
+"Pecten maximus","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.10E+000,2
+"Cerastoderma edule","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,5.07E-002,2
+"Patella vulgata","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,5.07E-002,2
+"Chthamalus stellatus","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.02E-002,2
+"Ocenebra erinacea","Invertebrate","omnivorous","benthic","predator",3.12,1.48E-001,2
+"Akera bullata","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.81E-001,2
+"Anomia ephippium","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.17E-001,2
+"Cerithiopsis tubercularis","Invertebrate","omnivorous","benthic","predator",3,2.39E-003,2
+"Glycimeris glycimeris","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,5.07E-002,2
+"Hinia incrassata","Invertebrate","omnivorous","benthic","predator",3,7.40E-003,2
+"Venus fasciata","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,3.46E-002,2
+"Venus striatula","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,9.28E-002,2
+"Helcion pellucidum","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.16E-002,2
+"Lepsiella albomarginata","Invertebrate","omnivorous","benthic","predator",3.13,2.16E-002,2
+"Mytilus galloprovincialis","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,2.57E-001,2
+"Thyasira flexuosa","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,5.05E-003,2
+"Philine aperta","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,5.07E-002,2
+"Abra alba","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.73E-003,2
+"Elminius modestus","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,1.18E-002,2
+"Semibalanus balanoides","Invertebrate","omnivorous","benthic","predator",3.14,3.46E-002,2
+"Semibalanus balanoides","Invertebrate","omnivorous","benthic","predator",3.14,3.46E-002,2
+"Verruca stroemia","Invertebrate","herbivorous/detrivorous","benthic","suspension-feeder",2,3.16E-003,2
+"Aphrodite aculeata","Invertebrate","omnivorous","benthic","predator",3.35,6.35E-001,3
+"Spirobis cuneatus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.03E-003,2
+"Spirobis spirobis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.13E-003,2
+"Circeis armoricana","Invertebrate","omnivorous","benthic","predator",2.33,1.18E-002,2
+"Janua pagenstecheri","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.31E-004,2
+"Lumbrinereis","Invertebrate","omnivorous","benthic","predator",3.22,3.02E+000,2
+"Polynoidae","Invertebrate","omnivorous","benthic","predator",3.2,6.35E-001,2
+"Hediste (Nereis) diversicolor","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.72E+000,2
+"Nereis virens","Invertebrate","omnivorous","benthic","predator",3.64,3.77E-001,2
+"Sabellidae","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,6.35E-001,2
+"Lanice conchilega","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,4.35E+000,2
+"Eumida sanguinea","Invertebrate","omnivorous","benthic","predator",2.25,3.00E-001,2
+"Eulalia virdis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.49E+000,2
+"Cirratulus cirratus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,9.32E-001,2
+"Lepidonotos squamatus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.48E-001,2
+"Anemonia sulcata","Invertebrate","omnivorous","benthic","predator",3.21,9.28E-002,2
+"Marthasterias glacialis","Invertebrate","omnivorous","benthic","predator/scavenger",3.77,2.73E-001,2
+"Asterina phylactica","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.18E-002,2
+"Asterina gibbosa","Invertebrate","omnivorous","benthic","predator/scavenger",2.31,1.48E-001,2
+"Asterias rubens","Invertebrate","omnivorous","benthic","predator/scavenger",3.23,3.02E+000,2
+"Henricia oculata","Invertebrate","omnivorous","benthic","predator/scavenger",3,7.76E-001,2
+"Luidia ciliaris","Invertebrate","omnivorous","benthic","predator/scavenger",3.26,6.38E+000,2
+"Aslia lefevrei","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.49E+000,2
+"Ophiothrix fragilis","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,7.76E-001,2
+"Echinus esculentus","Invertebrate","omnivorous","benthic","predator/scavenger",2.48,6.35E-001,2
+"Echinocardium cordatum","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.57E-001,2
+"Paracentrotus lividus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.67E-001,2
+"Psammechinus miliaris","Invertebrate","omnivorous","benthic","predator/scavenger",2.59,6.35E-001,2
+"Cancer pagurus","Invertebrate","omnivorous","benthic","predator/scavenger",3.84,5.33E-001,2
+"Carcinus maenas","Invertebrate","omnivorous","benthic","predator/scavenger",3.69,5.97E-002,2
+"Homarus gammarus","Invertebrate","omnivorous","benthic","predator/scavenger",3.93,1.87E+001,2
+"Necora puber","Invertebrate","omnivorous","benthic","predator/scavenger",3.52,8.06E-002,2
+"Maja squinado","Invertebrate","omnivorous","benthic","predator/scavenger",2.78,2.72E+000,2
+"Palaemon serratus","Invertebrate","omnivorous","benthic","predator/scavenger",3.21,3.34E-003,3
+"Crangon Crangon","Invertebrate","omnivorous","benthic","predator/scavenger",2.2,2.83E-001,3
+"Galathea squamifera","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,2.57E-001,3
+"Pandalus montagui","Invertebrate","omnivorous","benthic","predator/scavenger",3.24,1.71E+000,2
+"Pagurus bernhardus","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,7.01E-002,2
+"Pagurus prideauxi","Invertebrate","herbivorous/detrivorous","benthic","grazer",2,1.02E-002,2
+"Xantho incisus","Invertebrate","omnivorous","benthic","predator/scavenger",3.46,2.64E-002,2
+"Hyas araneus","Invertebrate","omnivorous","benthic","predator/scavenger",3.26,7.04E-001,2
+"Hyas coarctatus","Invertebrate","omnivorous","benthic","predator/scavenger",3.26,2.25E-001,2
+"Liocarcinus depurator","Invertebrate","omnivorous","benthic","predator/scavenger",3.47,6.35E-001,2
+"Liocarcinus arcuatus","Invertebrate","omnivorous","benthic","predator/scavenger",2.38,5.07E-002,3
+"Liocarcinus corrugatus","Invertebrate","omnivorous","benthic","predator/scavenger",3.32,1.08E-001,3
+"Nephrops norvegicus","Invertebrate","omnivorous","benthic","predator/scavenger",3.46,3.02E+000,2
+"Galathea strigosa","Invertebrate","omnivorous","benthic","predator/scavenger",2.49,9.32E-001,3
+"Squatina squatina*","ectotherm vertebrate","piscivorous","demersal","predator",4.36,2.03E+004,4
+"Sardina pilchardus","ectotherm vertebrate","omnivorous","pelagic","predator",2.33,7.67E+001,4
+"Raja clavata","ectotherm vertebrate","omnivorous","demersal","predator",2.91,2.01E+003,4
+"Zeus faber","ectotherm vertebrate","omnivorous","benthopelagic","predator",3.99,5.85E+001,4
+"Cepola macrophthalma","ectotherm vertebrate","carnivorous","demersal","predator",3.22,3.43E+001,4
+"Belone Belone","ectotherm vertebrate","carnivorous","pelagic","predator",3.42,4.29E+002,4
+"Scomber scombrus","ectotherm vertebrate","carnivorous","pelagic","predator",3.68,3.40E+003,4
+"Parablennius gattorugine","ectotherm vertebrate","omnivorous","demersal","predator",2.64,5.15E+002,4
+"Ammodytes tobianus","ectotherm vertebrate","carnivorous","demersal","predator",3.27,1.99E+002,4
+"Entelurus aequoreus","ectotherm vertebrate","carnivorous","demersal","predator",3.23,4.32E+002,4
+"Gaidropsarus mediterraneus","ectotherm vertebrate","carnivorous","demersal","predator",3.35,5.55E+002,4
+"Lepadogaster candolii","ectotherm vertebrate","omnivorous","demersal","predator",3.24,1.21E+001,4
+"Balistes carolinensis","ectotherm vertebrate","carnivorous","reef-associated","predator",3.34,6.15E+003,4
+"Gobius niger","ectotherm vertebrate","carnivorous","demersal","predator",3.49,7.82E+001,4
+"Gobius paganellus","ectotherm vertebrate","carnivorous","demersal","predator",3.4,2.31E+001,4
+"Taurulus bubalis","ectotherm vertebrate","carnivorous","demersal","predator",3.39,2.41E+002,4
+"Callionymus lyra","ectotherm vertebrate","carnivorous","demersal","predator",3.39,1.48E+001,4
+"Gobius couchi","ectotherm vertebrate","omnivorous","demersal","predator",2.15,5.39E+000,4
+"Aphia minuta","ectotherm vertebrate","carnivorous","pelagic","predator",3.34,1.08E+000,4
+"Lesueurigobius friesii","ectotherm vertebrate","carnivorous","demersal","predator",3.4,2.14E+001,4
+"Crystallogobius linearis","ectotherm vertebrate","carnivorous","demersal","predator",3.26,1.08E+000,4
+"Cetorhinus maximus*","ectotherm vertebrate","carnivorous","pelagic","grazer",3.34,4.00E+006,4
+"Hippocampus hippocampus*","ectotherm vertebrate","carnivorous","demersal","predator",3.24,5.06E+000,4
+"Gobius cruentatus","ectotherm vertebrate","carnivorous","demersal","predator",3.53,7.02E+001,4
+"Thorogobius ephippiatus","ectotherm vertebrate","omnivorous","demersal","predator",2.56,2.36E+001,4
+"Gobiusculus flavescens","ectotherm vertebrate","carnivorous","demersal","predator",3.19,2.27E+000,4
+"Syngnathus rostellatus","ectotherm vertebrate","carnivorous","demersal","predator",3.27,2.69E+000,4
+"Syngnathus acus","ectotherm vertebrate","carnivorous","demersal","predator",3.59,2.17E+002,4
+"Conger conger","ectotherm vertebrate","carnivorous","demersal","predator",3.96,1.01E+004,4
+"Spinachia spinachia","ectotherm vertebrate","carnivorous","benthopelagic","predator",3.33,2.24E+001,4
+"Trisopterus minutus","ectotherm vertebrate","carnivorous","benthopelagic","predator",3.72,6.48E+002,4
+"Gaidropsarus vulgaris","ectotherm vertebrate","carnivorous","demersal","predator",3.52,1.97E+003,4
+"Labrus bergylta","ectotherm vertebrate","omnivorous","reef-associated","predator",2.95,4.35E+003,4
+"Labrus mixtus","ectotherm vertebrate","carnivorous","reef-associated","predator",3.4,9.93E+002,4
+"Centrolabrus exoletus","ectotherm vertebrate","carnivorous","reef-associated","predator",4.03,4.72E+001,4
+"Pollachius pollachius","ectotherm vertebrate","carnivorous","benthopelagic","predator",3.43,1.81E+004,4
+"Scyliorhinus canicula","ectotherm vertebrate","carnivorous","demersal","predator",3.54,1.36E+003,4
+"Scyliorhinus stellaris","ectotherm vertebrate","carnivorous","reef-associated","predator",4.45,1.21E+004,4
+"Labrus mixtus","ectotherm vertebrate","carnivorous","reef-associated","predator",3.59,9.93E+002,4
+"Ctenolabrus rupestris","ectotherm vertebrate","carnivorous","reef-associated","predator",3.49,4.72E+001,4
+"Symphodus  melops","ectotherm vertebrate","carnivorous","reef-associated","predator",3.23,2.35E+002,4
+"Sprattus sprattus","ectotherm vertebrate","carnivorous","pelagic","predator",3.33,3.36E+001,4
+"Clupea harengus","ectotherm vertebrate","carnivorous","benthopelagic","predator",3.69,1.05E+003,4
+"Salmo trutta","ectotherm vertebrate","carnivorous","pelagic","predator",3.72,5.00E+004,4
+"Anguilla anguilla","ectotherm vertebrate","carnivorous/necrovorous","demersal","predator/scavenger",3.96,6.60E+003,4
+"Molva molva","ectotherm vertebrate","carnivorous","demersal","predator",3.72,4.50E+004,4
+"Lipophrys pholis","ectotherm vertebrate","carnivorous","demersal","predator",2.2,2.51E+002,4
+"Coryphoblennius galerita","ectotherm vertebrate","carnivorous","demersal","predator",3.24,3.92E+000,4
+"Pagellus bogaraveo","ectotherm vertebrate","omnivorous","benthopelagic","predator",2.84,4.00E+003,4
+"Solea solea","ectotherm vertebrate","carnivorous","demersal","predator",3.43,4.67E+003,4
+"Microstomus kitt","ectotherm vertebrate","carnivorous","demersal","predator",3.5,2.95E+003,4
+"Platichthys flesus","ectotherm vertebrate","carnivorous","demersal","predator",3.41,1.40E+004,4
+"Pleuronectes platessa","ectotherm vertebrate","carnivorous","demersal","predator",3.47,7.00E+003,4
+"Limanda limanda","ectotherm vertebrate","carnivorous","demersal","predator",3.42,1.00E+003,4
+"Arnoglossus laterna","ectotherm vertebrate","carnivorous","demersal","predator",3.39,1.31E+002,4
+"Phrynorhombus norvegicus","ectotherm vertebrate","carnivorous","benthopelagic","predator",3.68,2.73E+001,4
+"Zeugopterus punctatus","ectotherm vertebrate","carnivorous","demersal","predator",3.35,3.47E+002,4
+"Pholis gunnellus","ectotherm vertebrate","carnivorous","demersal","predator",3.3,7.12E+001,4
+"Chelon labrosus","ectotherm vertebrate","omnivorous","demersal","predator",2.71,4.50E+003,4
+"Atherina presbyter","ectotherm vertebrate","omnivorous","pelagic","predator",2.78,6.09E+001,4
+"Eutrigla gurnardus","ectotherm vertebrate","carnivorous","demersal","predator",3.86,9.56E+002,4
+"Myoxocephalus scorpius","ectotherm vertebrate","carnivorous","demersal","predator",4,1.60E+004,4
+"Cyclopterus lumpus","ectotherm vertebrate","omnivorous","benthopelagic","predator",2.6,9.50E+003,4
+"Liparis montagui","ectotherm vertebrate","carnivorous","demersal","predator",3.26,5.22E+001,4
+"Hyperoplus lanceolatus","ectotherm vertebrate","carnivorous","demersal","predator",3.73,1.67E+002,4
+"Hyperoplus immaculatus","ectotherm vertebrate","carnivorous","demersal","predator",4.75,1.33E+002,4
+"Mullus surmuletus","ectotherm vertebrate","omnivorous","demersal","predator",3.08,1.00E+003,4
+"Trachurus trachurus","ectotherm vertebrate","omnivorous","pelagic","predator",2.97,2.00E+003,4
+"Ciliata mustela","ectotherm vertebrate","carnivorous","demersal","predator",3.26,1.00E+002,4
+"Trisopterus luscus","ectotherm vertebrate","carnivorous","benthopelagic","predator",3.73,1.50E+003,4
+"Pollachius virens","ectotherm vertebrate","carnivorous","demersal","predator",3.38,3.20E+004,4
+"Merlangius merlangius","ectotherm vertebrate","omnivorous","benthopelagic","predator",2.97,3.11E+003,4
+"Gadhus morhua","ectotherm vertebrate","carnivorous","benthopelagic","predator",3.52,9.60E+004,4
+"Psetta maxima","ectotherm vertebrate","omnivorous","demersal","predator",2.66,2.50E+004,4
+"Scophthalmus rhombus","ectotherm vertebrate","carnivorous","demersal","predator",4.16,8.00E+003,4
+"Salmo salar","ectotherm vertebrate","carnivorous","benthopelagic","predator",4.11,4.68E+004,4
+"Lutra lutra","endotherm vertebrate","carnivorous","land-based","predator",4.5,1.01E+004,4
+"Halichoerus grypus","endotherm vertebrate","carnivorous","land-based","predator",4.64,1.73E+005,4
+"Corvus corone","endotherm vertebrate","carnivorous/necrovorous","land-based","predator/scavenger",3,9.89E+002,4
+"Larus marinus","endotherm vertebrate","carnivorous","land-based","predator/scavenger",4.06,2.00E+003,4
+"Larus argentatus","endotherm vertebrate","carnivorous","land-based","predator/scavenger",4.13,2.37E+003,4
+"Ardea cinera","endotherm vertebrate","carnivorous","land-based","predator/scavenger",4.47,4.01E+003,4
+"Phalacrocorax aristotelis","endotherm vertebrate","carnivorous","land-based","predator/scavenger",4.29,2.57E+003,4
+"Phalacrocorax carbo","endotherm vertebrate","carnivorous","land-based","predator/scavenger",4.29,4.29E+003,4
+"Apodemus sylvaticus","endotherm vertebrate","carnivorous","land-based","predator",1,1.07E+002,4
+"Sorex minutus","endotherm vertebrate","carnivorous","land-based","predator",1,2.49E+001,4
+"Rattus norvegicus","endotherm vertebrate","carnivorous","land-based","predator",1,1.33E+003,4
+"Rana temporaria","endotherm vertebrate","carnivorous","land-based","predator",1,9.25E+001,4
+"Triturus vulgaris","endotherm vertebrate","carnivorous","land-based","predator",1,1.38E+002,4
+"Fish eggs/larvae","ectotherm vertebrate","carnivorous","benthic","none",1,2.30E-004,4

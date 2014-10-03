@@ -1,0 +1,489 @@
+Taxonomy,MetabolicCategory,FeedingType,Environment,FeedingMode,TrophicLevel,BodyWeight,Mobility
+"Actinocyclus actinochilus","Primary producer",None,pelagic,None,1,4.06e-11,1
+"Actinocyclus spiritus","Primary producer",None,pelagic,None,1,1.64e-11,1
+"Actinocyclus utricularis","Primary producer",None,pelagic,None,1,4.01e-12,1
+"Azpeitia tabularis","Primary producer",None,pelagic,None,1,1.14e-11,1
+"Banquisia belgicae","Primary producer",None,pelagic,None,1,4.01e-12,1
+"Chaetoceros bulbosum","Primary producer",None,pelagic,None,1,6.04e-13,1
+"Chaetoceros concavicornis","Primary producer",None,pelagic,None,1,4.01e-12,1
+"Chaetoceros criophilum","Primary producer",None,pelagic,None,1,4.01e-12,1
+"Chaetoceros dichaeta","Primary producer",None,pelagic,None,1,6.04e-13,1
+"Chaetoceros flexuosum","Primary producer",None,pelagic,None,1,1.67e-12,1
+"Chaetoceros neglectum","Primary producer",None,pelagic,None,1,9.11e-14,1
+"Chaetoceros pelagicus","Primary producer",None,pelagic,None,1,6.04e-13,1
+"Chaetoceros socialis","Primary producer",None,pelagic,None,1,1.71e-13,1
+"Corethron criophilum","Primary producer",None,pelagic,None,1,4.01e-12,1
+"Coscinodiscus oculoides","Primary producer",None,pelagic,None,1,1.59e-09,1
+"Cylindrotheca closterium","Primary producer",None,pelagic,None,1,4.89e-11,1
+"Eucampia antarctica","Primary producer",None,pelagic,None,1,7.29e-12,1
+"Fragilariopsis curta","Primary producer",None,pelagic,None,1,9.11e-14,1
+"Fragilariopsis cylindrus","Primary producer",None,pelagic,None,1,1.53e-14,1
+"Fragilariopsis kerguelensis","Primary producer",None,pelagic,None,1,3.29e-13,1
+"Fragilariopsis linearis","Primary producer",None,pelagic,None,1,4.53e-13,1
+"Fragilariopsis nana","Primary producer",None,pelagic,None,1,4.53e-13,1
+"Fragilariopsis obliquecostata","Primary producer",None,pelagic,None,1,4.53e-13,1
+"Fragilariopsis pseudonana","Primary producer",None,pelagic,None,1,9.11e-14,1
+"Fragilariopsis rhombica","Primary producer",None,pelagic,None,1,4.53e-13,1
+"Fragilariopsis ritscheri","Primary producer",None,pelagic,None,1,4.53e-13,1
+"Fragilariopsis separanda","Primary producer",None,pelagic,None,1,6.04e-13,1
+"Fragilariopsis sublinearis","Primary producer",None,pelagic,None,1,1.5e-13,1
+"Fragilariopsis vanheurckii","Primary producer",None,pelagic,None,1,9.11e-14,1
+"Manguinea fusiformis","Primary producer",None,pelagic,None,1,1.97e-10,1
+"Manguinea rigida","Primary producer",None,pelagic,None,1,9.1e-12,1
+"Navicula glaciei","Primary producer",None,pelagic,None,1,2.26e-14,1
+"Navicula schefterae","Primary producer",None,pelagic,None,1,2.26e-14,1
+"Nitzschia kerguelensis","Primary producer",None,pelagic,None,1,5.73e-12,1
+"Nitzschia lecointei","Primary producer",None,pelagic,None,1,4.63e-11,1
+"Nitzschia neglecta","Primary producer",None,pelagic,None,1,9.11e-14,1
+"Odontella weissflogii","Primary producer",None,pelagic,None,1,5.73e-12,1
+"Porosira glacialis","Primary producer",None,pelagic,None,1,2.94e-11,1
+"Porosira pseudodenticulata","Primary producer",None,pelagic,None,1,9.81e-11,1
+"Proboscia alata","Primary producer",None,pelagic,None,1,1.51e-12,1
+"Proboscia inermi","Primary producer",None,pelagic,None,1,9.94e-13,1
+"Proboscia truncata","Primary producer",None,pelagic,None,1,1.21e-11,1
+"Pseudo-Nitzschia heimii","Primary producer",None,pelagic,None,1,1.77e-10,1
+"Pseudo-Nitzschia liniola","Primary producer",None,pelagic,None,1,8.13e-10,1
+"Pseudo-Nitzschia prolongatoides","Primary producer",None,pelagic,None,1,3.74e-12,1
+"Pseudo-Nitzschia subcurvata","Primary producer",None,pelagic,None,1,2.22e-10,1
+"Rhizosolenia antennata","Primary producer",None,pelagic,None,1,7.78e-12,1
+"Stellarima microtrias","Primary producer",None,pelagic,None,1,1.01e-10,1
+"Thalassiosira antarctica","Primary producer",None,pelagic,None,1,1.14e-11,1
+"Thalassiosira australis","Primary producer",None,pelagic,None,1,2.57e-12,1
+"Thalassiosira frenguelliopsis","Primary producer",None,pelagic,None,1,3.54e-12,1
+"Thalassiosira gracilis","Primary producer",None,pelagic,None,1,2.57e-12,1
+"Thalassiosira gracilis expecta","Primary producer",None,pelagic,None,1,1.92e-11,1
+"Thalassiosira gravida","Primary producer",None,pelagic,None,1,5.2e-12,1
+"Thalassiosira lentiginosa","Primary producer",None,pelagic,None,1,6.35e-11,1
+"Thalassiosira ritscheri","Primary producer",None,pelagic,None,1,6.44e-11,1
+"Thalassiosira trifulta","Primary producer",None,pelagic,None,1,5.87e-12,1
+"Thalassiosira tumida","Primary producer",None,pelagic,None,1,6.54e-11,1
+"Trichotoxon reinboldii","Primary producer",None,pelagic,None,1,2.71e-13,1
+"Dictyocha speculum","Primary producer",None,pelagic,None,1,6.98e-12,1
+"Phaeocystis antarctica","Primary producer",None,pelagic,None,1,1.24e-13,1
+Silicioflagellata,"Primary producer",None,pelagic,None,1,3.44e-14,1
+"Bodo saltans","Primary producer",None,pelagic,None,1,2.28e-13,1
+"Amphidinium hadai",Invertebrate,omnivorous,pelagic,predator,2,4e-12,4
+"Gyrodinium lachryama",Invertebrate,omnivorous,pelagic,predator,2,1.2e-10,4
+"Parvicorbucula socialis",Invertebrate,herbivorous/detrivorous,pelagic,suspension-feeder,2.5,3.3e-13,4
+"Cassidulinoides parkerianus",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1.2e-09,1
+"Cibicides refulgens",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1.2e-09,1
+"Globocassidulina crassa",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1.2e-09,1
+"Lenticulina antarctica",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1.2e-09,1
+"Neogloboquadriana pachyderma",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1.2e-09,1
+"Euphausia crystallorophias",Invertebrate,omnivorous,pelagic,"pelagic predator",2.06,1.2,4
+"Euphausia frigida",Invertebrate,omnivorous,pelagic,"pelagic predator",2.28,0.17,4
+"Thysanoessa macrura",Invertebrate,omnivorous,pelagic,"pelagic predator",2.43,0.15,4
+"Euphausia superba",Invertebrate,omnivorous,pelagic,"pelagic predator",2.28,5.5,4
+"Ampelisca richardsoni",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2,0.81,3
+"Abyssorchomene rossi",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.46,1.9,3
+"Abyssorchomene plebs",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.08,0.47,3
+"Abyssorchomene nodimanus",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.97,0.24,3
+"Eusirus antarcticus",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.1,0.14,3
+"Eusirus perdentatus",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.67,19,3
+"Alexandrella mixta",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.84,1.3,3
+"Tryphosella murrayi",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.89,1.3,3
+"Waldeckia obesa",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.37,1.3,3
+"Parschisturella ceruviata",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2,0.32,3
+"Paramoera walkeri",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.84,0.73,3
+"Epimeriella walkeri",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.84,0.73,3
+"Cyllopus lucasii",Invertebrate,omnivorous,pelagic,predator,2.4,0.32,4
+"Hyperiella dilatata",Invertebrate,omnivorous,pelagic,predator,2.13,0.0057,4
+"Vibilia antarctica",Invertebrate,omnivorous,pelagic,predator,3.68,0.00011,4
+"Vibilia stebbingi",Invertebrate,omnivorous,pelagic,predator,3.68,0.00011,4
+"Hyperia macrocephala",Invertebrate,omnivorous,pelagic,predator,4.69,0.42,4
+"Epimeria similis",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.5,3.7,3
+"Epimeria robusta",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.57,1.9,3
+"Epimeria macrodonta",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.69,1.3,3
+"Epimeria rubrieques",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.57,10,3
+"Epimeria georgiana",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.56,1.9,3
+"Melphidippa antarctica",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.06,0.47,3
+"Oediceroides emarginatus",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.69,6.4,3
+"Oediceroides calmani",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.7,0.81,3
+"Maxilliphimedia longipes",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.37,0.81,3
+"Gnathiphimedia mandibularis",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3,3.7,3
+"Echiniphimedia hodgsoni",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.97,1.9,3
+"Iphimediella  cyclogena",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.07,0.81,3
+"Paraceradocus gibber",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.75,6.4,3
+"Liljeborgia georgiana",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.44,0.59,3
+"Momoculodes scabriculosus",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2,0.47,3
+"Uristes gigas",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.83,0.59,3
+"Eurythenes gryllus",Invertebrate,omnivorous,benthopelagic,predator/scavenger,3.4,50,3
+"Bathypanoploea schellenbergi",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.88,3.7,3
+"Pseudorchomene coatsi",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2,0.47,3
+"Heterophoxus videns",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.46,0.031,3
+"Haplocheira plumosa",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.06,0.031,3
+"Oradarea edentata",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.06,0.031,3
+"Djerboa furcipes",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.06,0.031,3
+"Rhachotropis antarctica",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.9,0.18,3
+"Themisto gaudichaudii",Invertebrate,carnivorous,pelagic,predator,3.68,0.12,3
+"Primno macropa",Invertebrate,carnivorous,pelagic,predator,3.68,0.24,3
+"Notocrangon antarcticus",Invertebrate,omnivorous,benthic,predator,2.87,0.37,3
+"Chorismus antarcticus",Invertebrate,omnivorous,benthic,predator,3.14,0.21,3
+"Nematocarcinus lanceopes",Invertebrate,omnivorous,benthic,predator,2.41,1.2,3
+"Rhincalanus gigas",Invertebrate,omnivorous,pelagic,predator,2.06,0.02,4
+"Calanus propinquus",Invertebrate,omnivorous,pelagic,predator,2.08,0.0057,4
+"Calanoides acutus",Invertebrate,omnivorous,pelagic,predator,2.11,0.0055,4
+"Metridia gerlachei",Invertebrate,omnivorous,pelagic,predator,2.1,0.0023,4
+"Paraeuchaeta antarctica",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.18,0.0081,4
+"Eucopia australis",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.39,4.7,4
+"Euchaetomera antarcticus",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.39,0.084,4
+"Antarctomysis maxima",Invertebrate,omnivorous,benthopelagic,predator/scavenger,2.39,13,4
+"Ceratoserolis meridionalis",Invertebrate,carnivorous,benthic,predator/scavenger,3.89,15,2
+"Frontoserolis bouvieri",Invertebrate,carnivorous,benthic,predator/scavenger,3.89,15,2
+"Natatolana obtusata",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.031,3
+"Natatolana oculata",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.031,3
+"Natatolana meridionalis",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.031,3
+"Munna globicauda",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.0052,3
+"Serolella bouveri",Invertebrate,carnivorous,benthic,predator/scavenger,3.89,0.1,2
+"Serolis polita",Invertebrate,carnivorous,benthic,predator/scavenger,3.89,0.1,2
+"Gnathia calva",Invertebrate,carnivorous,benthic,predator/scavenger,3.68,0.016,3
+"Glyptonotus antarcticus",Invertebrate,carnivorous,benthic,predator/scavenger,3.83,50,3
+"Austrosignum grande",Invertebrate,detrivorous,benthic,deposit-feeder,2,50,3
+"Aega antarctica",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.59,3
+Arcturidae,Invertebrate,detrivorous,benthic,deposit-feeder,2,1.3,3
+"Conchoecia hettacra",Invertebrate,carnivorous,benthic,suspension-feeder,3.42,0.00044,3
+"Alacia hettacra",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2.06,0.00044,3
+"Alacia belgicae",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2.06,0.00044,3
+"Metaconchoecia isocheira",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2.06,0.00044,3
+"Boroecia antipoda",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2.06,0.00044,3
+"Conchoecia antipoda",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2.34,0.00044,3
+"Nototanais antarcticus",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.1,3
+"Peraeospinosus pushkini",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2.36,0.1,3
+"Nototanais dimorphus",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.1,3
+"Eudorella splendida",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.053,3
+"Vaunthompsonia indermis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.053,3
+"Camylaspis maculata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.053,3
+"Diastylis mawsoni",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.053,3
+"Ekleptostylis debroyeri",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.053,3
+"Pentanymphon antarcticum",Invertebrate,carnivorous,benthic,predator/scavenger,3.85,0.00034,2
+"Ammothea carolinensis",Invertebrate,carnivorous,benthic,predator/scavenger,3.9,0.17,2
+"Colossendeis scotti",Invertebrate,carnivorous,benthic,predator/scavenger,3.9,3.7,2
+"Nymphon gracillimum",Invertebrate,carnivorous,benthic,predator/scavenger,3.9,0.2,2
+"Pelagobia longicirrata",Invertebrate,omnivorous,pelagic,predator,2.12,0.0019,2
+"Rhynchonereella bongraini",Invertebrate,omnivorous,benthic,predator/scavenger,2.12,0.0019,2
+"Laetmonice producta",Invertebrate,omnivorous,benthic,predator/scavenger,3.86,110,2
+"Harmothoe spinosa",Invertebrate,omnivorous,benthic,predator/scavenger,3.65,6.1,2
+"Harmothoe crosetensis",Invertebrate,omnivorous,benthic,predator/scavenger,3.67,5.8,2
+"Harmotoe hartmanae",Invertebrate,omnivorous,benthic,predator/scavenger,3.68,5.8,2
+"Polyeunoa laevis",Invertebrate,omnivorous,benthic,predator/scavenger,3.82,15,2
+"Barrukia cristata",Invertebrate,omnivorous,benthic,predator/scavenger,3.57,3.9,2
+"Eulagisca gigantea",Invertebrate,omnivorous,benthic,predator/scavenger,3.77,200,2
+"Eunoe spica",Invertebrate,omnivorous,benthic,predator/scavenger,3.91,4.2,2
+"Eunoe hartmanae",Invertebrate,omnivorous,benthic,predator/scavenger,3.76,57,2
+"Eunoe spica spicoides",Invertebrate,omnivorous,benthic,predator/scavenger,3.82,7.1,2
+"Vanadis antarctica",Invertebrate,omnivorous,benthic,predator/scavenger,2.37,0.0039,2
+"Pista spinifera",Invertebrate,omnivorous,benthic,predator/scavenger,2,0.24,2
+"Phyllocomus crocea",Invertebrate,omnivorous,benthic,predator/scavenger,2,0.47,2
+"Terebella ehlersi",Invertebrate,omnivorous,benthic,predator/scavenger,2,0.24,2
+"Eucranta mollis",Invertebrate,omnivorous,benthic,predator/scavenger,2,4.7,2
+"Promachocrinus kerguelensis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,98,3
+"Anthometra adriani",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,98,3
+"Acodontaster conspicuus",Invertebrate,omnivorous,benthic,predator/scavenger,3,3.3,2
+"Acodontaster capitatus",Invertebrate,omnivorous,benthic,predator/scavenger,3,5.4,2
+"Acodontaster hodgsoni",Invertebrate,omnivorous,benthic,predator/scavenger,3,3.9,2
+"Bathybiaster loripes",Invertebrate,omnivorous,benthic,predator/scavenger,2.67,7.9,2
+"Cuenotaster involutus",Invertebrate,omnivorous,benthic,predator/scavenger,2,17,2
+"Diplasterias brucei",Invertebrate,omnivorous,benthic,predator/scavenger,3.84,2.8,2
+"Luidiaster gerlachei",Invertebrate,omnivorous,benthic,predator/scavenger,3.77,0.11,2
+"Labidiaster annulatus",Invertebrate,omnivorous,benthic,predator/scavenger,3.9,86,2
+"Lophaster gaini",Invertebrate,omnivorous,benthic,predator/scavenger,3,5.3,2
+"Notasterias armata",Invertebrate,omnivorous,benthic,predator/scavenger,3,1.1,2
+"Solaster dawsoni",Invertebrate,omnivorous,benthic,predator/scavenger,3.69,0.75,2
+"Odontaster meridionalis",Invertebrate,omnivorous,benthic,predator/scavenger,2.97,0.084,2
+"Odontaster validus",Invertebrate,omnivorous,benthic,predator/scavenger,3.29,0.57,2
+"Kampylaster incurvatus",Invertebrate,omnivorous,benthic,predator/scavenger,2,0.061,2
+"Cycethra verrucosa mawsoni",Invertebrate,omnivorous,benthic,predator/scavenger,2,0.57,2
+"Notasterias stylophora",Invertebrate,omnivorous,benthic,predator/scavenger,3,1.9,2
+"Notioceramus anomalus",Invertebrate,omnivorous,benthic,predator/scavenger,2,0.46,2
+"Perknaster sladeni",Invertebrate,omnivorous,benthic,predator/scavenger,2,0.35,2
+"Pteraster affinis aculeatus",Invertebrate,omnivorous,benthic,predator/scavenger,3,0.31,2
+"Perknaster densus",Invertebrate,omnivorous,benthic,predator/scavenger,2,0.78,2
+"Perknaster fuscus antarcticus",Invertebrate,omnivorous,benthic,predator/scavenger,2.67,9.8,2
+"Macroptychaster accrescens",Invertebrate,omnivorous,benthic,predator/scavenger,3.8,15,2
+"Lysasterias perrieri",Invertebrate,omnivorous,benthic,predator/scavenger,3.47,3.9,2
+"Psilaster charcoti",Invertebrate,omnivorous,benthic,predator/scavenger,4.41,15,2
+"Porania antarctica",Invertebrate,omnivorous,benthic,predator/scavenger,2.12,0.073,2
+"Porania antarctica glabra",Invertebrate,omnivorous,benthic,predator/scavenger,2.12,0.32,2
+"Ophioperla koehleri",Invertebrate,omnivorous,benthic,predator/scavenger,2,1.9,2
+"Ophionotus victoriae",Invertebrate,omnivorous,benthic,predator/scavenger,2.97,1.9,2
+"Ophioceres incipiens",Invertebrate,omnivorous,benthic,predator/scavenger,2.69,0.041,2
+"Ophiurolepis brevirima",Invertebrate,omnivorous,benthic,predator/scavenger,3,0.42,2
+"Ophiurolepis gelida",Invertebrate,omnivorous,benthic,predator/scavenger,2.98,0.28,2
+"Ophiosparte gigas",Invertebrate,omnivorous,benthic,predator/scavenger,3.44,7.5,2
+"Ophioperla ludwigi",Invertebrate,omnivorous,benthic,predator/scavenger,3.38,1.6,2
+"Ophiacantha antarctica",Invertebrate,omnivorous,benthic,predator/scavenger,2.15,0.067,2
+"Astrotoma agassizii",Invertebrate,omnivorous,benthic,predator/scavenger,2.87,4.2,2
+"Astrochlamys bruneus",Invertebrate,omnivorous,benthic,predator/scavenger,3.66,1.6,2
+"Gorgonocephalus chiliensis",Invertebrate,omnivorous,benthic,predator/scavenger,3.1,2.7,2
+"Sterechinus neumayeri",Invertebrate,omnivorous,benthic,predator/scavenger,2.67,2.9,2
+"Sterechinus antarcticus",Invertebrate,omnivorous,benthic,predator/scavenger,2.47,8.5,2
+"Ctenocidaris gigantea",Invertebrate,omnivorous,benthic,predator/scavenger,3.26,16,2
+"Ctenocidaris spinosa",Invertebrate,omnivorous,benthic,predator/scavenger,3.24,3.1,2
+"Notocidaris mortenseni",Invertebrate,omnivorous,benthic,predator/scavenger,3.01,3.5,2
+"Abatus curvidens",Invertebrate,detrivorous,benthic,deposit-feeder,2,1.4,2
+"Abatus cavernosus",Invertebrate,detrivorous,benthic,deposit-feeder,2,2.7,2
+"Abatus nimrodi",Invertebrate,detrivorous,benthic,deposit-feeder,2,3.7,2
+"Abatus shackeltoni",Invertebrate,detrivorous,benthic,deposit-feeder,2,1.9,2
+"Austrocidaris canaliculata",Invertebrate,carnivorous,benthic,predator/scavenger,3.78,0.89,2
+"Aporocidaris milleri",Invertebrate,carnivorous,benthic,predator/scavenger,3.3,2.7,2
+"Ctenocidaris perrieri",Invertebrate,carnivorous,benthic,predator/scavenger,3.26,15,2
+"Ctenocidaris gilberti",Invertebrate,omnivorous,benthic,predator/scavenger,3,16,2
+"Mesothuria lactea",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.066,2
+"Achlyonice violaecuspidata",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.15,2
+"Bathyplotes gourdoni",Invertebrate,detrivorous,benthic,deposit-feeder,2,4.8,2
+"Bathyplotes bongraini",Invertebrate,detrivorous,benthic,deposit-feeder,2,4.8,2
+"Scotoplanes globosa",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.024,2
+"Molpadia musculus",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,2.3,2
+"Ypsilocucumis turricata",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.69,2
+"Psolidium incertum",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.043,2
+"Trachythyone parva",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.043,2
+"Laetmogone wyvillethompsoni",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.01,2
+"Pseudostichopus mollis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.043,2
+"Pseudostichopus villosus",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.043,2
+"Elpidia glacialis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.01,2
+"Chiridota weddellensis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,2.3,2
+"Ekmocucumis steineni",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,2.3,2
+"Ekmocucumis turqueti",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,2.3,2
+"Abyssocucumis liouvillei",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.15,2
+"Psolus dubiosus",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.085,2
+"Psolus charcoti",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.062,2
+"Psolus antarcticus",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.085,2
+"Echinopsolus acanthocola",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.0081,2
+"Ekmocucumis turqueti turqueti",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,19,2
+"Taeniogyrus contortus",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.085,2
+"Silicularia rosea",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2.38,0.0022,1
+"Tubularia ralphii",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,3.57,0.029,1
+"Oswaldella antarctica",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1.3,1
+"Monocaulus parvula",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2.41,2.8,1
+"Rhodalia miranda",Invertebrate,carnivorous,pelagic,predator,3.66,0.15,4
+"Atolla wyvillei",Invertebrate,carnivorous,pelagic,predator,3.66,1.5,4
+"Dimophyes arctica",Invertebrate,carnivorous,pelagic,predator,3.66,0.15,4
+"Diphyes antarctica",Invertebrate,carnivorous,pelagic,predator,3.66,0.15,4
+Bargmannia,Invertebrate,carnivorous,pelagic,predator,3.6,0.012,4
+"Solmundella bitentaculata",Invertebrate,carnivorous,pelagic,predator,4.2,3.3,4
+"Dipulmaris antarctica",Invertebrate,carnivorous,pelagic,predator,4.03,2.2,4
+"Desmonema glaciale",Invertebrate,carnivorous,pelagic,predator,3.89,80,4
+"Periphylla periphylla",Invertebrate,carnivorous,pelagic,predator,3.89,2.7,4
+"Urticinopsis antarctica",Invertebrate,omnivorous,benthic,predator,3.9,2.3,1
+"Isotealia antarctica",Invertebrate,omnivorous,benthic,predator,2.22,0.043,1
+"Edwardsia meridionalis",Invertebrate,omnivorous,benthic,predator,2.14,0.018,1
+"Isosicyonis alba",Invertebrate,omnivorous,benthic,predator,2.14,0.018,1
+"Primnoisis antarctica",Invertebrate,carnivorous,benthic,predator,3.57,1.5,1
+"Gersemia antarctica",Invertebrate,omnivorous,benthic,predator,2.08,5800,1
+"Clavularia frankiliana",Invertebrate,omnivorous,benthic,predator,2.38,0.085,1
+Primnoella,Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.13,1
+"Ainigmaptilon antarcticus",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.13,1
+"Armadillogorgia cyathella",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.13,1
+"Alcyonium antarcticum",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.13,1
+"Anthomastus bathyproctus",Invertebrate,omnivorous,benthic,predator,2.02,1.3,1
+"Nuttallochiton mirandus",Invertebrate,omnivorous,benthic,predator,3,0.29,2
+"Callochiton gaussi",Invertebrate,omnivorous,benthic,predator,3,0.00066,2
+"Notaeolidia gigas",Invertebrate,omnivorous,benthic,predator,3.97,0.35,2
+"Austrodoris kerguelenensis",Invertebrate,omnivorous,benthic,predator,3,3.4,2
+"Trophon longstaffi",Invertebrate,omnivorous,benthic,predator,3,0.00026,2
+"Tritonia antarctica",Invertebrate,omnivorous,benthic,predator,2.5,0.19,2
+"Aegires albus",Invertebrate,omnivorous,benthic,predator,3,0.018,2
+"Bathydoris clavigera",Invertebrate,omnivorous,benthic,predator,3.23,3.4,2
+"Tritoniella belli",Invertebrate,omnivorous,benthic,predator,2.98,0.35,2
+"Harpovoluta charcoti",Invertebrate,omnivorous,benthic,predator,3.03,0.29,2
+"Puncturella conica",Invertebrate,omnivorous,benthic,predator,2.96,0.0011,2
+"Neobuccinum eatoni",Invertebrate,omnivorous,benthic,predator,3,0.15,2
+"Marseniopsis mollis",Invertebrate,omnivorous,benthic,predator,3,0.01,2
+"Marseniopsis conica",Invertebrate,omnivorous,benthic,predator,3,0.01,2
+"Parmaphorella mawsoni",Invertebrate,herbivorous/detrivorous,benthic,grazer,2,0.043,2
+"Amauropsis rossiana",Invertebrate,carnivorous,benthic,predator,3.32,0.01,2
+"Newnesia antarctica",Invertebrate,herbivorous/detrivorous,benthic,grazer,2,0.018,2
+"Falsimargarita gemma",Invertebrate,herbivorous/detrivorous,benthic,grazer,2,0.01,2
+"Marginella ealesa",Invertebrate,herbivorous/detrivorous,benthic,grazer,2,0.018,2
+"Pontiothauma ergata",Invertebrate,carnivorous,benthic,predator,4.19,0.69,2
+"Probuccinum tenuistriatum",Invertebrate,carnivorous,benthic,predator,4.19,0.00048,2
+"Nacella concinna",Invertebrate,carnivorous,benthic,predator,3,0.00048,2
+"Clione limacina",Invertebrate,carnivorous,pelagic,predator,4.61,0.014,4
+"Clione antarctica",Invertebrate,carnivorous,pelagic,predator,4.11,0.1,4
+"Clio pyramidata",Invertebrate,carnivorous,pelagic,predator,3.11,0.017,4
+"Limacina helicina antarctica",Invertebrate,carnivorous,pelagic,predator,3.11,9.4e-05,4
+"Pareledone charcoti",Invertebrate,carnivorous,benthic,predator,4.54,3.3,3
+"Pareledone antarctica",Invertebrate,carnivorous,benthic,predator,4.38,29,3
+"Psychroteuthis glacialis",Invertebrate,carnivorous,pelagic,predator,4.1,770,3
+"Moroteuthis ingens",Invertebrate,carnivorous,pelagic,predator,4.11,850,3
+"Alluroteuthis antarcticus",Invertebrate,carnivorous,pelagic,predator,4.34,29,3
+"Galiteuthis glacialis",Invertebrate,carnivorous,pelagic,predator,3.26,1800,3
+"Kondakovia longimana",Invertebrate,carnivorous,pelagic,predator,3.26,330,3
+"Gonatus antarcticus",Invertebrate,carnivorous,pelagic,predator,4.31,850,3
+"Mesonychoteuthis hamiltoni",Invertebrate,carnivorous,pelagic,predator,4.88,110000,3
+"Martialia hyadesi",Invertebrate,carnivorous,pelagic,predator,4.54,330,3
+"Cyclocardia astartoides",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,3e-05,2
+"Yolida eightsi",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.023,2
+"Laternula elliptica",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.55,2
+"Limopsis lillei",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.0046,2
+"Limopsis marionensis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.35,2
+"Lissarca notorcadensis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.00056,2
+"Propeleda longicaudata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.012,2
+"Cadulus dalli antarcticum",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.0017,1
+"Fissidentalium majorinum",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.13,1
+"Cinachyra antarctica",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.18,1
+"Cinachyra barbata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.18,1
+"Bathydorus spinosus",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1.2,1
+"Iophon radiatus",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,2.3,1
+"Kirkpatrickia variolosa",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,45,1
+"Rossella racovitzae",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,45,1
+"Stylocordyla borealis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,45,1
+"Homaxinella balfourensis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,2.3,1
+"Scolymastra joubini",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,720,1
+"Latrunculia apicalis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1,1
+"Latrunculia brevis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1,1
+"Tetilla leptoderma",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,30,1
+"Haliclona dancoi",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Mycale acerata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,12,1
+"Rossella antarctica",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,12,1
+"Rossella tarenja",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,12,1
+"Haliclona tenella",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Clathria pauper",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,2.3,1
+"Calyx arcuarius",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,2.3,1
+"Isodyctia toxophila",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Isodyctia cavicornuta",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Isodyctia steifera",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Axociella nidificata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,6.5,1
+"Rossella nuda",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,300,1
+"Tentorium papillatum",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Tentorium semisuberites",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Tedania oxeata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Tedania tantulata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Tedania vanhoeffeni",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Phorbas areolatus",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1.2,1
+"Phorbas glaberrima",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1.2,1
+"Polymastia invaginata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.92,1
+"Polymastia isidis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.92,1
+"Anoxycalyx joubini",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,720,1
+"Beroe cucumis",Invertebrate,carnivorous,pelagic,predator,4.19,0.085,4
+"Lyrocteis flavopallidus",Invertebrate,carnivorous,pelagic,predator,3.66,0.19,4
+"Callianira antarctica",Invertebrate,carnivorous,pelagic,predator,3.78,5.6,4
+"Baseodiscus antarcticus",Invertebrate,carnivorous/necrovorous,benthic,predator/scavenger,3.52,5800,2
+"Lineus longifissus",Invertebrate,carnivorous/necrovorous,benthic,predator/scavenger,3.52,5800,2
+"Parborlasia corrugatus",Invertebrate,carnivorous/necrovorous,benthic,predator/scavenger,3.52,5800,2
+"Phascolion strombi",Invertebrate,detrivorous,benthic,deposit-feeder,2,6.3e-07,2
+"Golfingia nordenskojoeldi",Invertebrate,detrivorous,benthic,deposit-feeder,2,6.3e-07,2
+"Golfingia mawsoni",Invertebrate,detrivorous,benthic,deposit-feeder,2,4.1e-05,2
+"Golfingia ohlini",Invertebrate,detrivorous,benthic,deposit-feeder,2,2.8e-05,2
+"Golfingia anderssoni",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.0022,2
+"Golfingia margaritacea margaritacea",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.92,2
+"Alomasoma belyaevi",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.57,2
+"Echiurus antarcticus",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.00088,2
+Hamingia,Invertebrate,detrivorous,benthic,deposit-feeder,2,0.018,2
+"Maxmuelleria faex",Invertebrate,detrivorous,benthic,deposit-feeder,2,0.01,2
+"Flustra angusta",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.69,1
+"Camptoplites tricornis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.69,1
+"Nematoflustra flagellata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Austroflustra vulgaris",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.15,1
+"Melicerita obliqua",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.69,1
+"Systenopora contracta",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,30,1
+"Flustra antarctica",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Fasciculiporoides ramosa",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,1.2,1
+"Reteporella hippocrepis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,2.3,1
+"Lageneschara lyrulata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.085,1
+"Isoschizoporella tricuspis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.69,1
+"Caulastraea curvata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.69,1
+"Chondriovelum adeliense",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.69,1
+"Bostrychopora dentata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.085,1
+"Liothyrella uva",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.085,1
+"Magellania joubini",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.0022,1
+"Magellania fragilis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.082,1
+"Crania lecointei",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.00014,1
+"Compsothyris racovitzae",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.0022,1
+"Liothyrella uva antarctica",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.085,1
+"Eukrohnia hamata",Invertebrate,omnivorous,pelagic,predator,3.1,0.0052,4
+"Pseudosagitta gazellae",Invertebrate,omnivorous,pelagic,predator,3.14,0.15,4
+"Sagitta marri",Invertebrate,omnivorous,pelagic,predator,3.11,0.0013,4
+"Pseudosagitta maxima",Invertebrate,omnivorous,pelagic,predator,3.11,0.35,4
+Cephalodiscus,Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.2,1
+"Molgula pedunculata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,11,1
+"Ascidia challengeri",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.69,1
+"Corella eumyota",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Aplidium vastum",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,5.6,1
+"Synoicum adareanum",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,4.1,1
+"Cnemidocarpa verrucosa",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,15,1
+"Sycozoa sigillinoides",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.01,1
+"Pyura bouvetensis",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.085,1
+"Pyura discoveryi",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.15,1
+"Pyura setosa",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.29,1
+"Pyura tunicata",Invertebrate,herbivorous/detrivorous,benthic,suspension-feeder,2,0.19,1
+"Salpa thompsoni",Invertebrate,omnivorous,pelagic,predator,2.27,0.14,4
+"Salpa gerlachei",Invertebrate,omnivorous,pelagic,predator,2.06,0.0074,4
+"Ihlea racovitzai",Invertebrate,omnivorous,pelagic,predator,2.06,0.0074,4
+"Artedidraco orianae","ectotherm vertebrate",carnivorous,demersal,predator,3.74,95,4
+"Artedidraco loennbergi","ectotherm vertebrate",carnivorous,demersal,predator,3.86,17,4
+"Artedidraco skottsbergi","ectotherm vertebrate",carnivorous,demersal,predator,3.85,33,4
+"Dolloidraco longedorsalis","ectotherm vertebrate",carnivorous,demersal,predator,3.72,13,4
+"Pogonophryne marmorata","ectotherm vertebrate",carnivorous,demersal,predator,3.71,190,4
+"Pogonophryne phyllopogon","ectotherm vertebrate",carnivorous,demersal,predator,3.9,230,4
+"Pogonophryne permitini","ectotherm vertebrate",carnivorous,demersal,predator,3.91,80,4
+"Pogonophryne scotti","ectotherm vertebrate",carnivorous,demersal,predator,3.91,440,4
+"Pogonophryne barsukovi","ectotherm vertebrate",carnivorous,demersal,predator,3.91,190,4
+"Cygnodraco mawsoni","ectotherm vertebrate",carnivorous,demersal,predator,4.01,760,4
+"Gerlachea australis","ectotherm vertebrate",carnivorous,benthopelagic,predator,3.91,260,4
+"Gymnodraco acuticeps","ectotherm vertebrate",carnivorous,demersal,predator,3.75,1400,4
+"Prionodraco evansii","ectotherm vertebrate",carnivorous,demersal,predator,3.5,64,4
+"Racovitzia glacialis","ectotherm vertebrate",carnivorous,bathydemersal,predator,3.61,430,4
+"Chaenodraco wilsoni","ectotherm vertebrate",carnivorous,benthopelagic,predator,3.32,210,4
+"Chionodraco hamatus","ectotherm vertebrate",carnivorous,demersal,predator,3.8,1100,4
+"Chionodraco myersi","ectotherm vertebrate",carnivorous,demersal,predator,4.09,370,4
+"Cryodraco antarcticus","ectotherm vertebrate",carnivorous,demersal,predator,3.54,1300,4
+"Dacodraco hunteri","ectotherm vertebrate",carnivorous,demersal,predator,4.79,330,4
+"Pagetopsis maculatus","ectotherm vertebrate",carnivorous,demersal,predator,4.09,81,4
+"Aethotaxis mitopteryx","ectotherm vertebrate",carnivorous,benthopelagic,predator,3.86,49,4
+"Dissostichus mawsoni","ectotherm vertebrate",carnivorous,pelagic,predator,4.14,24000,4
+"Trematomus eulepidotus","ectotherm vertebrate",carnivorous,benthopelagic,predator,3.68,480,4
+"Trematomus lepidorhinus","ectotherm vertebrate",carnivorous,benthopelagic,predator,3.8,150,4
+"Trematomus loennbergii","ectotherm vertebrate",carnivorous,benthopelagic,predator,4.08,250,4
+"Trematomus nicolai","ectotherm vertebrate",carnivorous,benthopelagic,predator,3.83,660,4
+"Trematomus pennellii","ectotherm vertebrate",carnivorous,demersal,predator,4.02,300,4
+"Trematomus scotti","ectotherm vertebrate",carnivorous,demersal,predator,3.81,95,4
+"Pleuragramma antarcticum","ectotherm vertebrate",carnivorous,demersal,predator,3.64,300,4
+"Notothenia marmorata","ectotherm vertebrate",carnivorous,demersal,predator,4.17,8600,4
+"Notothenia coriiceps","ectotherm vertebrate",carnivorous,demersal,predator,4.24,2000,4
+"Trematomus bernacchii","ectotherm vertebrate",carnivorous,demersal,predator,3.61,240,4
+"Trematomus hansoni","ectotherm vertebrate",carnivorous,benthopelagic,predator,4.34,300,4
+"Macrourus holotrachys","ectotherm vertebrate",carnivorous,benthopelagic,predator,4.75,3800,4
+"Macrourus whitsoni","ectotherm vertebrate",carnivorous,benthopelagic,predator,4.58,5100,4
+"Electrona antarctica","ectotherm vertebrate",carnivorous,pelagic,predator,3.47,39,4
+"Harpagifer antarcticus","ectotherm vertebrate",carnivorous,demersal,predator,3.79,36,4
+"Bathylagus antarcticus","ectotherm vertebrate",carnivorous,pelagic,predator,3.35,27,4
+"Notolepis coatsi","ectotherm vertebrate",carnivorous,pelagic,predator,3.48,3.1,4
+"Gymnoscopelus braueri","ectotherm vertebrate",carnivorous,pelagic,predator,3.59,25,4
+"Gymnoscopelus opisthopterus","ectotherm vertebrate",carnivorous,pelagic,predator,3.38,36,4
+"Gymnoscopelus nicholsi","ectotherm vertebrate",carnivorous,pelagic,predator,3.71,110,4
+"Protomyctophum bolini","ectotherm vertebrate",carnivorous,pelagic,predator,3.42,5.6,4
+"Pagetopsis macropterus","ectotherm vertebrate",carnivorous,demersal,predator,4.71,610,4
+"Muraenolepis marmoratus","ectotherm vertebrate",omnivorous,benthopelagic,predator,3.17,1000,4
+"Muraenolepis microps","ectotherm vertebrate",carnivorous,benthopelagic,predator,3.68,710,4
+"Pachycara brachycephalum","ectotherm vertebrate",carnivorous,demersal,predator,3.96,3.5,4
+"Champsocephalus gunnari","ectotherm vertebrate",carnivorous,pelagic,predator,3.72,2200,4
+"Fulmarus glacialoides","endotherm vertebrate",carnivorous/necrovorous,land-based,predator/scavenger,4.45,14000,4
+"Thalassoica antarctica","endotherm vertebrate",carnivorous,land-based,predator,4.43,600,4
+"Halobaena caerulea","endotherm vertebrate",carnivorous,land-based,predator,4.39,230,4
+"Daption capense","endotherm vertebrate",carnivorous,land-based,predator,4.43,5500,4
+"Pagodroma nivea","endotherm vertebrate",carnivorous,land-based,predator,4.23,4000,4
+"Aphrodroma brevirostris","endotherm vertebrate",carnivorous,land-based,predator,4.21,330,4
+"Macronectes halli","endotherm vertebrate",carnivorous/necrovorous,land-based,predator/scavenger,5,4100,4
+"Macronectes giganteus","endotherm vertebrate",carnivorous/necrovorous,land-based,predator/scavenger,4.33,4700,4
+"Procellaria aequinoctialis","endotherm vertebrate",carnivorous,land-based,predator,4.28,600,4
+"Oceanites oceanicus","endotherm vertebrate",carnivorous/necrovorous,land-based,predator/scavenger,4.11,600,4
+"Sterna vittata","endotherm vertebrate",carnivorous,land-based,predator,3.88,420,4
+"Sterna paradisaea","endotherm vertebrate",carnivorous,land-based,predator,4.08,380,4
+"Pachyptila desolata","endotherm vertebrate",carnivorous,land-based,predator,4.25,170,4
+"Aptenodytes forsteri","endotherm vertebrate",carnivorous,land-based,predator,4.78,11000,4
+"Pygoscelis adeliae","endotherm vertebrate",carnivorous,land-based,predator,3.8,880,4
+"Lobodon carcinophaga","endotherm vertebrate",carnivorous,land-based,predator,4.29,750000,4
+"Hydrurga leptonyx","endotherm vertebrate",carnivorous,land-based,predator,4.74,1400000,4
+"Arctocephalus gazella","endotherm vertebrate",carnivorous,land-based,predator,4.68,320000,4
+"Mirounga leonina","endotherm vertebrate",carnivorous,land-based,predator,4.88,5000000,4
+"Ommatophoca rossii","endotherm vertebrate",carnivorous,land-based,predator,4.88,370000,4
+"Leptonychotes weddelli","endotherm vertebrate",carnivorous,land-based,predator,4.87,770000,4
+"Balaenoptera musculus","endotherm vertebrate",carnivorous,benthopelagic,predator,4.07,1900000,4
+"Balaenoptera physalus","endotherm vertebrate",carnivorous,benthopelagic,predator,4.07,860000000,4
+"Balaenoptera acutorostrata","endotherm vertebrate",carnivorous,benthopelagic,predator,3.75,52000000,4
+"Physeter macrocephalus","endotherm vertebrate",carnivorous,benthopelagic,predator,4.51,250000000,4
+"Megaptera novaeangliae","endotherm vertebrate",carnivorous,benthopelagic,predator,3.26,280000000,4
+"Orcinus orca","endotherm vertebrate",carnivorous,benthopelagic,predator,5.07,40000000,4
+"Lagenorhynchus cruciger","endotherm vertebrate",carnivorous,benthopelagic,predator,4.51,240000,4
+"Tursiops truncatus","endotherm vertebrate",carnivorous,benthopelagic,predator,4.51,2300000,4
