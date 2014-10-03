@@ -27,7 +27,11 @@
         }
 
         M <- model.matrix(as.formula(paste0("~0+",t)),traits)
-        U[,t] <- correction.factor %*% M;
+        corrected.traits <- data.frame(correction.factor %*% M);
+
+        for(ct in colnames(corrected.traits)){
+            U[,ct] <- corrected.traits[,ct]
+        }
     }
 
     # reorder the corrected traits as they originally came
