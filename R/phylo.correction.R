@@ -7,17 +7,17 @@
 #' @export
 `phylo.correction` <- function(traits, phy)
 {
-    # determine the order of the traits
-    rnames.orig <- rownames(traits);
-
-    # make sure that the order of the traits corresponds to the phylogeny
-    traits <- traits[as.character(phy$tip.label),];
-
     # calculate the Gmatrix based on the phylogeny   
     Gmatrix <- ape::vcv(phy);
 
     # determine the phylogenetic 'correction factor' as defined in Butler et al. (2000)
     correction.factor <- chol(solve(Gmatrix));
+
+    # determine the original order of the traits
+    rnames.orig <- rownames(traits);
+
+    # make sure that the order of the traits corresponds to the correction.factor matrix
+    traits <- traits[as.character(rownames(correction.factor)),];
 
     # correct things trait by trait (useful if we have a mixture of continuous and discrete traits)
     U = data.frame(row.names=rownames(traits));
