@@ -1,6 +1,0 @@
-BM,bodymass.txt,Cont,FoodWeb
-HB,environment.txt,Categ,FoodWeb
-FT,feedingtype.txt,Categ,FoodWeb
-FM,foragingmode.txt,Categ,FoodWeb
-MC,metaboliccategory.txt,Categ,FoodWeb
-MB,mobility.txt,Categ,FoodWeb
