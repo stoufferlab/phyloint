@@ -19,8 +19,10 @@
     # make sure that the order of the traits corresponds to the correction.factor matrix
     traits <- traits[as.character(rownames(correction.factor)), , drop=FALSE];
 
-    # correct things trait by trait (useful if we have a mixture of continuous and discrete traits)
+    # build a container for the corrected trait values
     U = data.frame(row.names=rownames(correction.factor));
+
+    # correct everything trait by trait (useful if we have a mixture of continuous and discrete traits)
     for(t in colnames(traits)){
         if(is.factor(traits[,t])){
           traits[,t] <- droplevels(traits[,t])
