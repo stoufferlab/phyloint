@@ -17,10 +17,10 @@
     rnames.orig <- rownames(traits);
 
     # make sure that the order of the traits corresponds to the correction.factor matrix
-    traits <- traits[as.character(rownames(correction.factor)),];
+    traits <- traits[as.character(rownames(correction.factor)), , drop=FALSE];
 
     # correct things trait by trait (useful if we have a mixture of continuous and discrete traits)
-    U = data.frame(row.names=rownames(traits));
+    U = data.frame(row.names=rownames(correction.factor));
     for(t in colnames(traits)){
         if(is.factor(traits[,t])){
           traits[,t] <- droplevels(traits[,t])
