@@ -20,12 +20,16 @@ build.matrix.from.traits <- function(adj, traits, direction=1){
   for(c in 1:ncol(traits)){
     Trait_temp<-traits[colnames(traits)[c]]
 
-    # determine the min and max trait values when only considering matches to non-zero elements in the adjacency
-    MinTrait <- sapply(1:ncol(adj), function(x) {if(!any(adj[,x] > 0)){NA}else{min((adj[,x] * Trait_temp)[which(adj[,x]>0),])}})
-    MaxTrait <- sapply(1:ncol(adj), function(x) {if(!any(adj[,x] > 0)){NA}else{max((adj[,x] * Trait_temp)[which(adj[,x]>0),])}})
-
     # build a matrix that repeats the row trait value across all columns
     MatrixTraits <- as.matrix(Trait_temp)[,rep(1,nrow(adj))]
+
+    # build a dummy adjacency matrix but that has trait values instead of 1's and NA's instead of 0's
+    Adummy <- MatrixTraits * adj
+    Adummy[which(adj == 0)] <- NA
+
+    # determine the min and max trait values when only considering matches to non-NA elements
+    MinTrait <- apply(Adummy, 2, min, na.rm = TRUE)
+    MaxTrait <- apply(Adummy, 2, max, na.rm = TRUE)
 
     # do some linear algebra and R magic to get the final predicted adjacency matrix
     B <- (t(t(MatrixTraits)<=MaxTrait) & t(t(MatrixTraits)>=MinTrait))*1
