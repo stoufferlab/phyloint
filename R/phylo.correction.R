@@ -26,11 +26,19 @@
     for(t in colnames(traits)){
         if(is.factor(traits[,t])){
           traits[,t] <- droplevels(traits[,t])
+
+          # just in case dropping levels leaves us with only one
+          if(nlevels(traits[,t]) == 1)
+            traits[,1] <- 1
         }
 
+        # build a model matrix based on the trait values (this helps automate the separation of categorical traits)
         M <- model.matrix(as.formula(paste0("~0+",t)),traits)
+
+        # use the correction factor to determine the corrected trait values
         corrected.traits <- data.frame(correction.factor %*% M);
 
+        # populate the U container
         for(ct in colnames(corrected.traits)){
             U[,ct] <- corrected.traits[,ct]
         }
