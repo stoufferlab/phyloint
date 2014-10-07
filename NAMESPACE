@@ -2,6 +2,7 @@
 
 S3method(plot,phylo.gaps)
 S3method(sum,phylo.gaps)
+export(build.matrix.from.traits)
 export(minimize.phylo.gaps.sd)
 export(phylo.correction)
 export(phylo.signal)
