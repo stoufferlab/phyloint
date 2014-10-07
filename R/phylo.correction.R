@@ -17,7 +17,7 @@
     rnames.orig <- rownames(traits);
 
     # make sure that the order of the traits corresponds to the correction.factor matrix
-    traits <- traits[as.character(rownames(correction.factor)), , drop=FALSE];
+    traits <- traits[as.character(rownames(correction.factor)), ,drop=FALSE];
 
     # build a container for the corrected trait values
     U = data.frame(row.names=rownames(correction.factor));
@@ -38,7 +38,7 @@
 
     # reorder the corrected traits as they originally came
     # TODO: should make sure this works when a species was dropped because it isn't in the tree
-    U <- U[rnames.orig,];
+    U <- U[rnames.orig, ,drop=FALSE];
  
     return(U);
 }
