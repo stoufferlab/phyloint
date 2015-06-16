@@ -1,9 +1,9 @@
 #' @title Remove potential phylogenetic signal from a set of continuous or discrete traits
-#' @param traits a data frame with species as rows and traits as columns
-#' @param phy a phylogenetic tree of class 'phylo'
+#' @param traits A data frame with species as rows and traits as columns
+#' @param phy A phylogenetic tree of class 'phylo'
 #' @references MA Butler, TW Schoener, and JB Losos (2000) The relationship between
 #'    sexual size dimorphism and habitat use in Greater Antillean Anolis
-#'    lizards. Evolution 54:259-272
+#'    lizards. Evolution 54:259-272 (doi: 10.1111/j.0014-3820.2000.tb00026.x)
 #' @export
 `phylo.correction` <- function(traits, phy)
 {

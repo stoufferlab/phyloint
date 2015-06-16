@@ -5,7 +5,8 @@
 #' @references A Eklöf, U Jacob, J Kopp, J Bosch, R Castro-Urgal, NP Chacoff,
 #'    B Dalsgaard, C de Sassi, M Galetti, PR Guimarães, SB Lomáscolo, AM Martín
 #'    González, MA Pizo, R Rader, A Rodrigo, JM Tylianakis, DP Vázquez, and S
-#'    Allesina (2013) The dimensionality of ecological networks. Ecology Letters (doi: 10.1111/ele.12081)
+#'    Allesina (2013) The dimensionality of ecological networks. Ecology
+#'    Letters 16:577-583 (doi: 10.1111/ele.12081)
 #' @export
 build.matrix.from.traits <- function(adj, traits, direction=1){
   # Transpose the matrix
