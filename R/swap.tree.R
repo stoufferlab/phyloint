@@ -1,6 +1,6 @@
-#' @title Permute a set pair of sister clades in a phylogenetic tree
-#' @param phy The phylo object
-#' @param node The node to permuate around
+#' @title Permute a pair of sister clades in a phylogenetic tree
+#' @param phy A phylogenetic tree of class 'phylo'
+#' @param node The node to permutate around
 #' @export
 `swap.tree` <- function(phy, node=NULL)
 {

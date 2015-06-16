@@ -1,5 +1,5 @@
 #' @title Calculate the xy-coordinates of nodes in a phylogenetic tree
-#' @param phy The phylo object
+#' @param phy A phylogenetic tree of class 'phylo'
 #' @param type Specify whether to return coordinates for all nodes or just tips
 #' @export
 `tree.coord` <- function(phy, type=c('all','tips'))

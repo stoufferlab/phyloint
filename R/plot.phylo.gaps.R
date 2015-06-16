@@ -16,15 +16,15 @@
   tc <- tree.coord(phy)
   nodes <- tc[rownames(adj),]
   nodes$node <- rownames(nodes)
-  comm <- Community(nodes=nodes,
-                    properties=list(title='foobar'),
-                    trophic.links=PredationMatrixToLinks(adj))
+  comm <- Cheddar::Community(nodes=nodes,
+                             properties=list(title='barsom'),
+                             trophic.links=Cheddar::PredationMatrixToLinks(adj))
 
   # order the community as defined by the phylogeny
-  comm <- OrderCommunity(comm,'y')
+  comm <- Cheddar::OrderCommunity(comm,'y')
   
   # plot the matrix so that it's lined up with the tree
   par(pty='s')
-  PlotPredationMatrix(comm,cex=link.size,pch=15,main='',xlab='',ylab='',asp=1,consumer.order=order(NumberOfResources(comm)))
+  Cheddar::PlotPredationMatrix(comm,cex=link.size,pch=15,main='',xlab='',ylab='',asp=1,consumer.order=order(Cheddar::NumberOfResources(comm)))
   box(lwd=tree.lwd)
 }
