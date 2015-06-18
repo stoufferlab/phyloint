@@ -29,8 +29,8 @@ build.matrix.from.traits <- function(adj, traits, direction=1){
     Adummy[which(adj == 0)] <- NA
 
     # determine the min and max trait values when only considering matches to non-NA elements
-    MinTrait <- apply(Adummy, 2, min, na.rm = TRUE)
-    MaxTrait <- apply(Adummy, 2, max, na.rm = TRUE)
+    MinTrait <- apply(Adummy, 2, function(x){if(sum(is.na(x))==length(x)){NA}else{min(x,na.rm=TRUE)}})
+    MaxTrait <- apply(Adummy, 2, function(x){if(sum(is.na(x))==length(x)){NA}else{max(x,na.rm=TRUE)}})
 
     # do some linear algebra and R magic to get the final predicted adjacency matrix
     B <- (t(t(MatrixTraits)<=MaxTrait) & t(t(MatrixTraits)>=MinTrait))*1
