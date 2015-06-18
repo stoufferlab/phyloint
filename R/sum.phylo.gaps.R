@@ -6,10 +6,10 @@
     tc <- tree.coord(phy)
     nodes <- tc[rownames(adj),]
     nodes$node <- rownames(nodes)
-    comm <- Cheddar::Community(nodes=nodes,
+    comm <- cheddar::Community(nodes=nodes,
 	    				      properties=list(title='varza'),
-	    				      trophic.links=PredationMatrixToLinks(adj))
-    comm <- Cheddar::OrderCommunity(comm,'y')
-  	gaps <- Cheddar::SumDietGaps(comm)
+	    				      trophic.links=cheddar::PredationMatrixToLinks(adj))
+    comm <- cheddar::OrderCommunity(comm,'y')
+  	gaps <- cheddar::SumDietGaps(comm)
     return(gaps)
 }
