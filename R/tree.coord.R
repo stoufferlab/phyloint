@@ -11,7 +11,7 @@
     pdf(file=NULL)
     ape::plot.phylo(phy, type='phylogram', plot=FALSE)
     dev.off()
-    last.plot <- get("last_plot.phylo", envir = .PlotPhyloEnv)
+    last.plot <- get("last_plot.phylo", envir = ape::.PlotPhyloEnv)
 
     # save the x,y coordinates of everything
     x <- last.plot$xx

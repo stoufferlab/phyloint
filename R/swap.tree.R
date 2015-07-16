@@ -36,7 +36,7 @@
   tc[unlist(ts.new),"y"] <- tc[unlist(ts),"y"]
 
   # figure out the new top to bottom order
-  new.order <- rownames(tc)[order(tc$y[1:Ntip(phy)])];
+  new.order <- rownames(tc)[order(tc$y[1:ape::Ntip(phy)])];
 
   # reorder the phylo object
   phy.swapped <- ape::rotateConstr(phy, new.order);

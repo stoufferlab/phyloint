@@ -1,6 +1,6 @@
 #' @title Build a predicted adjacency matrix based on trait values
 #' @param adj The adjacency matrix
-#' @param trait A vector or matrix of continuous trait values
+#' @param traits A vector or matrix of continuous trait values
 #' @param direction Whether to build based on rows (1) or columns (2)
 #' @references A Eklöf, U Jacob, J Kopp, J Bosch, R Castro-Urgal, NP Chacoff,
 #'    B Dalsgaard, C de Sassi, M Galetti, PR Guimarães, SB Lomáscolo, AM Martín

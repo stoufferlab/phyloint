@@ -9,9 +9,9 @@ build.matrix.from.traits(adj, traits, direction = 1)
 \arguments{
 \item{adj}{The adjacency matrix}
 
-\item{direction}{Whether to build based on rows (1) or columns (2)}
+\item{traits}{A vector or matrix of continuous trait values}
 
-\item{trait}{A vector or matrix of continuous trait values}
+\item{direction}{Whether to build based on rows (1) or columns (2)}
 }
 \description{
 Build a predicted adjacency matrix based on trait values

@@ -1,6 +1,11 @@
 #' @title Plot a tree coordinate object in the xy plane and an ordered adjacency matrix by its side
+#'
 #' @param x an object of class 'phylo.gaps'
+#' @param edge.width a numeric vector giving the width of the branches of the plotted phylogeny. These are taken to be in the same order as the component 'edge' of the phylogeny. If fewer widths are given than the length of 'edge', the values are recycled.
+#' @param link.size a numeric value giving the size of the squares that indicate trophic links in the visual representation of the adjacency matrix
+#'
 #' @export
+#'
 `plot.phylo.gaps` <- function(x,type='optim',tree.lwd=1,link.size=1)
 {
   adj <- x$adj

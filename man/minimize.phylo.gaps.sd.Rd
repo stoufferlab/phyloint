@@ -26,6 +26,17 @@ Minimize diet gaps in an adjacency matrix based on prey phylogeny using steepest
 }
 \examples{
 data(eklof)
-minimize.phylo.gaps.sd(eklof$network, eklof$tree)
+gaps.phylo <- minimize.phylo.gaps.sd(eklof$network, eklof$tree)
+
+\dontrun{
+# Load the sample data
+data(eklof)
+
+# Run 1000 optimizations
+gaps.phylo <- lapply(1:1000, function(x)(minimize.phylo.gaps.sd(eklof$network, eklof$tree)))
+
+Find the minimum from this sample
+gaps.phylo <- gaps.phylo[[which.min(lapply(gaps.phylo,function(x)x$gaps.optim))]]
+}
 }
 

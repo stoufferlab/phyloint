@@ -3,7 +3,7 @@
 #' @param phy a phylogenetic tree of class 'phylo'
 #' @references M Pagel (1999) Inferring the historical patterns of biological
 #'   evolution. Nature 401:877-884
-#' @export
+#' 
 `phylo.signal` <- function(trait, phy, rep = 999) {
     if (length(attributes(factor(trait))$levels) == length(trait)) 
         stop("Are you sure this variable is categorical?")
