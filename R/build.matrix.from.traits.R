@@ -1,18 +1,17 @@
 #' @title Build a predicted adjacency matrix based on trait values
 #' @param adj The adjacency matrix
 #' @param traits A vector or matrix of continuous trait values
-#' @param direction Whether to build based on rows (1) or columns (2)
 #' @references A Eklöf, U Jacob, J Kopp, J Bosch, R Castro-Urgal, NP Chacoff,
 #'    B Dalsgaard, C de Sassi, M Galetti, PR Guimarães, SB Lomáscolo, AM Martín
 #'    González, MA Pizo, R Rader, A Rodrigo, JM Tylianakis, DP Vázquez, and S
 #'    Allesina (2013) The dimensionality of ecological networks. Ecology
 #'    Letters 16:577-583 (doi: 10.1111/ele.12081)
 #' @export
-build.matrix.from.traits <- function(adj, traits, direction=1){
-  # Transpose the matrix
-  if(direction==2){
-      adj <- t(adj)
-  }
+build.matrix.from.traits <- function(adj, traits){
+  # # Transpose the matrix
+  # if(direction==2){
+  #     adj <- t(adj)
+  # }
 
   # build a container for predictions based on an intervals defined by trait values
   B_all <- array(dim=c(nrow(adj), ncol(adj), ncol(traits)))
@@ -61,10 +60,10 @@ build.matrix.from.traits <- function(adj, traits, direction=1){
   B<-FinalMat
   rownames(B)<-rownames(traits)
   
-  # retranspose in case we started off that way
-  if(direction==2){
-      B <- t(B)
-  }
+  # # retranspose in case we started off that way
+  # if(direction==2){
+  #     B <- t(B)
+  # }
   
   return(B)
 }

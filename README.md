@@ -1,18 +1,12 @@
-# phyloint
+## phyloint
 
-This package provides functions in `R` to calculate properties related to intervality (Stouffer et al. 2006; Eklöf et al. 2013) while mixing species phylogenies with interaction matrices.
+This `R` package provides functions to calculate properties related to food-web intervality (Stouffer et al. 2006; Eklöf et al. 2013) while mixing species phylogenies with interaction matrices as described in:
 
-#### How to install
+Anna Eklöf and Daniel B. Stouffer, "The phylogenetic component of food-web structure and intervality." *Theoretical Ecology* (in press).
 
-1. Clone the repository:
-
-  ```
-  git clone git@github.com:stoufferlab/phyloint.git
-  ```
-    
-2. Install the package from with `R` using the `devtools` package:
+#### How to install directly from github
 
   ```
   require(devtools)
-  install("/path/to/phyloint/")
+  install_github("stoufferlab/phyloint")
   ```

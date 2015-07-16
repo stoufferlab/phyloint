@@ -4,14 +4,12 @@
 \alias{build.matrix.from.traits}
 \title{Build a predicted adjacency matrix based on trait values}
 \usage{
-build.matrix.from.traits(adj, traits, direction = 1)
+build.matrix.from.traits(adj, traits)
 }
 \arguments{
 \item{adj}{The adjacency matrix}
 
 \item{traits}{A vector or matrix of continuous trait values}
-
-\item{direction}{Whether to build based on rows (1) or columns (2)}
 }
 \description{
 Build a predicted adjacency matrix based on trait values
