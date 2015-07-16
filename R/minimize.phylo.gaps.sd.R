@@ -1,10 +1,35 @@
-#' @title Minimize diet gaps in an adjacency matrix based on prey phylogeny using steepest descent
+#' @title Minimize diet gaps in an adjacency matrix based on prey phylogeny using steepest descent optimization
 #' @param adj an adjacency matrix of class 'matrix'
 #' @param phy a phylogenetic tree of class 'phylo'
+#' @param verbose a logical indicating whether or not the function should print out details of the status of the optimization process
+#'
+#' @return The function returns a list made up of four elements
+#' ('adj', 'phy.init', 'phy.optim', and 'gaps.optim'). 'adj' and 'phy.init' are
+#' the adjacency matrix and phylogenetic tree, respectively, that were
+#' passed to the function. 'phy.optim' is the rotated phylogeny that
+#' corresponds to the minimum number of gaps found, and 'gaps.optim' is the
+#' value of that minimum.
+#'
 #' @export
+#'
+#' @examples
+#' data(eklof)
+#' gaps.phylo <- minimize.phylo.gaps.sd(eklof$network, eklof$tree)
+#'
+#' \dontrun{
+#' # Load the sample data
+#' data(eklof)    
+#'
+#' # Run 1000 optimizations
+#' gaps.phylo <- lapply(1:1000, function(x)(minimize.phylo.gaps.sd(eklof$network, eklof$tree)))
+#'
+#' Find the minimum from this sample
+#' gaps.phylo <- gaps.phylo[[which.min(lapply(gaps.phylo,function(x)x$gaps.optim))]]  
+#' }
+#'
 `minimize.phylo.gaps.sd` <- function(adj, phy, verbose=FALSE){
     # make sure we shuffle the tree at the start to give us "random" initial conditions
-    for(i in seq_len(Nnode(phy))) phy <- swap.tree(phy)
+    for(i in seq_len(ape::Nnode(phy))) phy <- swap.tree(phy)
 
     # create a container for everything
     obj <- list(adj=adj,phy.init=phy)

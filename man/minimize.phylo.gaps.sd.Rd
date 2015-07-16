@@ -2,7 +2,7 @@
 % Please edit documentation in R/minimize.phylo.gaps.sd.R
 \name{minimize.phylo.gaps.sd}
 \alias{minimize.phylo.gaps.sd}
-\title{Minimize diet gaps in an adjacency matrix based on prey phylogeny using steepest descent}
+\title{Minimize diet gaps in an adjacency matrix based on prey phylogeny using steepest descent optimization}
 \usage{
 minimize.phylo.gaps.sd(adj, phy, verbose = FALSE)
 }
@@ -10,8 +10,22 @@ minimize.phylo.gaps.sd(adj, phy, verbose = FALSE)
 \item{adj}{an adjacency matrix of class 'matrix'}
 
 \item{phy}{a phylogenetic tree of class 'phylo'}
+
+\item{verbose}{a logical indicating whether or not the function should print out details of the status of the optimization process}
+}
+\value{
+The function returns a list made up of four elements
+('adj', 'phy.init', 'phy.optim', and 'gaps.optim'). 'adj' and 'phy.init' are
+the adjacency matrix and phylogenetic tree, respectively, that were
+passed to the function. 'phy.optim' is the rotated phylogeny that
+corresponds to the minimum number of gaps found, and 'gaps.optim' is the
+value of that minimum.
 }
 \description{
-Minimize diet gaps in an adjacency matrix based on prey phylogeny using steepest descent
+Minimize diet gaps in an adjacency matrix based on prey phylogeny using steepest descent optimization
+}
+\examples{
+data(eklof)
+minimize.phylo.gaps.sd(eklof$network, eklof$tree)
 }
 
