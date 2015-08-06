@@ -6,23 +6,21 @@ Anna Eklöf and Daniel B. Stouffer, "The phylogenetic component of food-web stru
 
 #### How to install directly from github
 
-  ```
-  require(devtools)
-  install_github("stoufferlab/phyloint")
-  ```
+    require(devtools)
+    install_github("stoufferlab/phyloint")
 
 #### How to conduct key analyses in Eklöf & Stouffer
 
-        require(ape)
-        require(phyloint)
+    require(ape)
+    require(phyloint)
         
-        # load in some sample data
-        data(eklof)
+    # load in some sample data
+    data(eklof)
         
-        # use steepest descent to minimize the number of phylogenetic gaps in the data
-        gaps.phylo <- minimize.phylo.gaps.sd(adj=eklof$network, phy=eklof$tree)
+    # use steepest descent to minimize the number of phylogenetic gaps in the data
+    gaps.phylo <- minimize.phylo.gaps.sd(adj=eklof$network, phy=eklof$tree)
         
-        # calculate trait values when accounting for the expected covariance between species
-        corrected.traits <- phylo.correction(traits=eklof$traits, phy=eklof$tree)
+    # calculate trait values when accounting for the expected covariance between species
+    corrected.traits <- phylo.correction(traits=eklof$traits, phy=eklof$tree)
 
 [doi]: http://dx.doi.org/10.1007/s12080-015-0273-9
