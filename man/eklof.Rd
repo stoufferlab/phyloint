@@ -4,7 +4,7 @@
 \name{eklof}
 \alias{eklof}
 \title{Sample food-web dataset with which to study phylogenetic intervality}
-\format{\preformatted{List of 2
+\format{\preformatted{List of 3
  $ network: int [1:69, 1:69] 0 0 0 0 0 0 0 0 0 0 ...
   ..- attr(*, "dimnames")=List of 2
   .. ..$ : chr [1:69] "sp_1" "sp_2" "sp_3" "sp_4" ...
@@ -17,17 +17,23 @@
   ..$ root.edge  : num 0
   ..- attr(*, "class")= chr "phylo"
   ..- attr(*, "order")= chr "cladewise"
+ $ traits :'data.frame':	69 obs. of  2 variables:
+  ..$ trait.1: num [1:69] 12000 2250 1100 10300 1110 710 2150 700 540 180 ...
+  ..$ trait.2: Factor w/ 4 levels "A","B","C","D": 2 2 2 2 2 2 2 2 2 2 ...
 }}
 \usage{
 eklof
 }
 \description{
-The object 'eklof' has two items: a 'network' object and a 'tree' object.
-The 'network' object is a binary SxS matrix where a value of 1 indicates
-that the row species consumes the column species. The 'tree' object is a
-phylogenetic tree of class 'phylo' (see 'ape::read.tree'). The data are a
-synthetic dataset created to demonstrate how to use the 'phyloint' package
-and therefore do not have an associated reference.
+The object 'eklof' has three items: a 'network' object, a 'tree' object,
+and a 'traits' object. The 'network' object is a binary SxS matrix where
+a value of 1 indicates that the row species consumes the column species.
+The 'tree' object is a phylogenetic tree of class 'phylo' (see
+'ape::read.tree'). The 'traits' object is a data frame with species names
+as row names and columns for different species traits (which can be both
+continuous or categorical). These data constitute a synthetic dataset
+created to demonstrate how to use the 'phyloint' package and hence do
+not have an associated reference.
 }
 \keyword{datasets}
 
