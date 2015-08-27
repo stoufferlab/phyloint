@@ -23,4 +23,10 @@ Anna Eklöf and Daniel B. Stouffer, "The phylogenetic component of food-web stru
     # calculate trait values when accounting for the expected covariance between species
     corrected.traits <- phylo.correction(traits=eklof$traits, phy=eklof$tree)
 
+    # produce the overlap matrices based on the phylogentically corrected trait values 
+    overlap.matrices <- build.matrix.from.traits(eklof$network, corrected.traits)
+
+    # calculate the overlap values for all different combinations of traits and produce a result table 
+    combinations <- overlap.combinations(eklof$network, overlap.matrices)
+
 [doi]: http://dx.doi.org/10.1007/s12080-015-0273-9
