@@ -2,7 +2,7 @@
 
 This `R` package provides functions to calculate properties related to food-web intervality (Stouffer et al. 2006; Eklöf et al. 2013) while mixing species phylogenies with interaction matrices as described in:
 
-Anna Eklöf and Daniel B. Stouffer, "The phylogenetic component of food-web structure and intervality." *Theoretical Ecology* (in press) doi:[10.1007/s12080-015-0273-9][doi].
+Anna Eklöf and Daniel B. Stouffer (2016) "The phylogenetic component of food-web structure and intervality." *Theoretical Ecology* 9(1) 107-115 doi:[10.1007/s12080-015-0273-9][doi].
 
 #### How to install directly from github
 
