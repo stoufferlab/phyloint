@@ -4,6 +4,8 @@
 #' @references MA Butler, TW Schoener, and JB Losos (2000) The relationship between
 #'    sexual size dimorphism and habitat use in Greater Antillean Anolis
 #'    lizards. Evolution 54:259-272 (doi: 10.1111/j.0014-3820.2000.tb00026.x)
+#' @return The function returns a list made up of the phylogenetically corrected values for each of the #'  traits analysed (in the example file 'eklof' this corresponds to trait.1 and trait.2) 
+#' 
 #' @export
 `phylo.correction` <- function(traits, phy)
 {
@@ -20,7 +22,9 @@
     traits <- traits[as.character(rownames(correction.factor)), ,drop=FALSE];
 
     # build a container for the corrected trait values
-    U = data.frame(row.names=rownames(correction.factor));
+    #U = data.frame(row.names=rownames(correction.factor));
+    U = list()
+    
 
     # correct everything trait by trait (useful if we have a mixture of continuous and discrete traits)
     for(t in colnames(traits)){
@@ -39,14 +43,14 @@
         corrected.traits <- data.frame(correction.factor %*% M);
 
         # populate the U container
-        for(ct in colnames(corrected.traits)){
-            U[,ct] <- corrected.traits[,ct]
-        }
+        #for(ct in colnames(corrected.traits)){
+            #U[,ct] <- corrected.traits[,ct]
+            #U[,,ct] <- corrected.traits[,ct]
+        #}
+        corrected.traits <- corrected.traits[rnames.orig, ,drop=FALSE];
+        U[[t]] <- corrected.traits
     }
 
-    # reorder the corrected traits as they originally came
-    # TODO: should make sure this works when a species was dropped because it isn't in the tree
-    U <- U[rnames.orig, ,drop=FALSE];
  
     return(U);
 }
